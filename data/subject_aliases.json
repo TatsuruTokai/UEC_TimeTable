@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "description": "確定成績CSVと学修要覧PDF抽出の科目名照合用alias。キーも値も正規化前の表示名でよい。",
+  "aliases": {
+    "力学（Ⅲ類）": "力学",
+    "力学演習（Ⅲ類）": "力学演習",
+    "確率統計（Ⅲ類）": "確率統計",
+    "生涯スポーツ演習Ａ": "生涯スポーツ演習A",
+    "生涯スポーツ演習Ｂ": "生涯スポーツ演習B",
+    "文学Ａ": "文学A",
+    "文学Ｂ": "文学B",
+    "社会学Ａ": "社会学A",
+    "社会学Ｂ": "社会学B",
+    "法学Ａ": "法学A",
+    "法学Ｂ": "法学B",
+    "政治学Ａ": "政治学A",
+    "政治学Ｂ": "政治学B",
+    "社会思想史Ａ": "社会思想史A",
+    "社会思想史Ｂ": "社会思想史B",
+    "Academic Spoken English Ⅰ": "Academic Spoken English I",
+    "Academic Spoken English Ⅱ": "Academic Spoken English II",
+    "Academic Written English Ⅰ": "Academic Written English I",
+    "Academic Written English Ⅱ": "Academic Written English II",
+    "Academic English for the Second Year Ⅰ": "Academic English for the Second Year I",
+    "Academic English for the Second Year Ⅱ": "Academic English for the Second Year II"
+  }
+}
