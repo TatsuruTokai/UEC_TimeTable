@@ -1,8 +1,7 @@
 {
   "version": 1,
   "generatedFrom": [
-    "public/data/graduation_requirements.json",
-    "youran_dataset/raw_tables/<year>/requirement_pages.json"
+    "public/data/graduation_requirements.json"
   ],
   "requirements": [
     {
@@ -99,8 +98,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -214,8 +212,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -317,8 +314,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -432,8 +428,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -538,8 +533,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -656,8 +650,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -760,8 +753,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -876,8 +868,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -982,8 +973,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1100,8 +1090,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1204,8 +1193,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1320,8 +1308,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1424,8 +1411,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1542,8 +1528,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1646,8 +1631,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1764,8 +1748,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1870,8 +1853,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -1990,8 +1972,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2094,8 +2075,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2212,8 +2192,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2316,8 +2295,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2434,8 +2412,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2020/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2538,8 +2515,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2653,8 +2629,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2756,8 +2731,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2871,8 +2845,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -2977,8 +2950,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3095,8 +3067,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3199,8 +3170,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3315,8 +3285,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3421,8 +3390,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3539,8 +3507,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3643,8 +3610,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3759,8 +3725,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3863,8 +3828,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -3981,8 +3945,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4085,8 +4048,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4203,8 +4165,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4309,8 +4270,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4429,8 +4389,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4533,8 +4492,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4651,8 +4609,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4755,8 +4712,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4873,8 +4829,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2021/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -4977,8 +4932,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5092,8 +5046,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5195,8 +5148,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5310,8 +5262,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5416,8 +5367,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5534,8 +5484,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5638,8 +5587,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5754,8 +5702,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5860,8 +5807,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -5978,8 +5924,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6082,8 +6027,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6198,8 +6142,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6302,8 +6245,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6420,8 +6362,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6524,8 +6465,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6642,8 +6582,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6748,8 +6687,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6868,8 +6806,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -6972,8 +6909,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7090,8 +7026,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7194,8 +7129,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7312,8 +7246,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2022/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7416,8 +7349,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7531,8 +7463,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7634,8 +7565,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7748,8 +7678,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7851,8 +7780,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -7966,8 +7894,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8072,8 +7999,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8190,8 +8116,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8294,8 +8219,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8410,8 +8334,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8516,8 +8439,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8634,8 +8556,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8738,8 +8659,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8854,8 +8774,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -8958,8 +8877,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9076,8 +8994,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9180,8 +9097,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9298,8 +9214,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9404,8 +9319,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9524,8 +9438,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9628,8 +9541,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9746,8 +9658,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9850,8 +9761,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -9968,8 +9878,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2023/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10072,8 +9981,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10187,8 +10095,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10290,8 +10197,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10404,8 +10310,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10507,8 +10412,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10621,8 +10525,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10725,8 +10628,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10840,8 +10742,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -10943,8 +10844,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11057,8 +10957,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11160,8 +11059,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11275,8 +11173,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11381,8 +11278,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11499,8 +11395,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11603,8 +11498,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11719,8 +11613,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11825,8 +11718,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -11943,8 +11835,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12047,8 +11938,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12163,8 +12053,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12267,8 +12156,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12385,8 +12273,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12489,8 +12376,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12607,8 +12493,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12713,8 +12598,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12833,8 +12717,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -12937,8 +12820,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13055,8 +12937,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13159,8 +13040,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13277,8 +13157,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2024/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13381,8 +13260,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13496,8 +13374,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13599,8 +13476,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13713,8 +13589,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13816,8 +13691,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -13930,8 +13804,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14034,8 +13907,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14149,8 +14021,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14252,8 +14123,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14366,8 +14236,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14469,8 +14338,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14584,8 +14452,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14690,8 +14557,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14808,8 +14674,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -14912,8 +14777,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15028,8 +14892,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15134,8 +14997,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15252,8 +15114,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15356,8 +15217,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15472,8 +15332,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15576,8 +15435,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15694,8 +15552,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15798,8 +15655,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -15916,8 +15772,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16022,8 +15877,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16142,8 +15996,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16246,8 +16099,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16364,8 +16216,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16468,8 +16319,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16586,8 +16436,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2025/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16690,8 +16539,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16805,8 +16653,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -16908,8 +16755,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17022,8 +16868,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17125,8 +16970,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17240,8 +17084,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17346,8 +17189,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17464,8 +17306,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17568,8 +17409,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17684,8 +17524,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17790,8 +17629,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -17908,8 +17746,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18012,8 +17849,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18128,8 +17964,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18232,8 +18067,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18350,8 +18184,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18454,8 +18287,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18572,8 +18404,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18678,8 +18509,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18798,8 +18628,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -18902,8 +18731,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -19020,8 +18848,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -19124,8 +18951,7 @@
         "pages": [
           20,
           21
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
@@ -19242,8 +19068,7 @@
           22,
           23,
           24
-        ],
-        "rawDataPath": "youran_dataset/raw_tables/2026/requirement_pages.json"
+        ]
       },
       "confidence": "medium",
       "notes": [
