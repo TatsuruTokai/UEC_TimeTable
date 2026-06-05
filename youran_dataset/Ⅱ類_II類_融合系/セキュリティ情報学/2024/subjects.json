@@ -1,0 +1,1154 @@
+[
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "線形代数学第二",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY203z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "化学概論第二",
+    "subject_code": "CHM203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "確率統計",
+    "subject_code": "MTH301f",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ 力学",
+    "subject_code": "PHY204f",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "応用数学Ａ",
+    "subject_code": "MTH302f",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "基礎電気回路",
+    "subject_code": "ELE301f",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "基礎電磁気学",
+    "subject_code": "PHY301f",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "基礎演習Ａ",
+    "subject_code": "GSE301f",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "数値解析およびプログラミング演習",
+    "subject_code": "COM301f",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "アルゴリズムとデータ構造およびプログラミング演習",
+    "subject_code": "COM401f",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "離散数学",
+    "subject_code": "MTH303f",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ 複素関数論",
+    "subject_code": "MTH304f",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ 波動と光",
+    "subject_code": "PHY302f",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "応用数学Ｂ",
+    "subject_code": "MTH401f",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "力学演習",
+    "subject_code": "PHY303f",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科自 目由",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "プログラミング言語実験",
+    "subject_code": "COM501f",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "セキュリティ情報学実験",
+    "subject_code": "COM601f",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "輪講Ａ",
+    "subject_code": "LAB701f",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "輪講Ｂ",
+    "subject_code": "LAB801f",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "卒業研究Ａ",
+    "subject_code": "LAB702f",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "卒業研究Ｂ",
+    "subject_code": "LAB802f",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ 数理統計",
+    "subject_code": "MTH402f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "計算機アーキテクチャー",
+    "subject_code": "COM40２f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ 情報通信システム",
+    "subject_code": "ELE501f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ 離散数学応用",
+    "subject_code": "MTH501f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ アルゴリズム論",
+    "subject_code": "COM502f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "メディアネットワーク",
+    "subject_code": "COM503f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "オペレーティングシステム",
+    "subject_code": "COM504f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ コンピュータネットワーク",
+    "subject_code": "COM505f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ ユビキタスネットワーク",
+    "subject_code": "COM602f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "暗号理論",
+    "subject_code": "COM603f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ ハードウェアセキュリティ",
+    "subject_code": "COM604f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ ソフトウェアセキュリティ",
+    "subject_code": "COM605f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ コンテンツセキュリティ",
+    "subject_code": "COM606f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ ネットワークセキュリティ",
+    "subject_code": "COM607f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "＃ データベース論",
+    "subject_code": "COM506f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "セキュリティ情報学",
+    "subject": "デジタル信号処理",
+    "subject_code": "ELE601f",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / セ キ � リ テ � 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 118,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=118"
+  }
+]

@@ -1,0 +1,1370 @@
+[
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "線形代数学第二",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY203z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "化学概論第二",
+    "subject_code": "CHM203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "力学",
+    "subject_code": "PHY204k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "力学演習",
+    "subject_code": "PHY205k",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "工学基礎数学および演習",
+    "subject_code": "MTH301k",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "熱力学",
+    "subject_code": "PHY301k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "基礎電磁気学および演習",
+    "subject_code": "PHY302k",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "基礎電気回路",
+    "subject_code": "ELE301k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "複素関数論",
+    "subject_code": "MTH302k",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "数値解析",
+    "subject_code": "COM301k",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "確率統計",
+    "subject_code": "MTH303k",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "計測工学概論",
+    "subject_code": "GSE301k",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "電磁気学および演習",
+    "subject_code": "PHY401k",
+    "credits": "3",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "基礎電子回路",
+    "subject_code": "ELE401k",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "プログラミング演習",
+    "subject_code": "COM401k",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "計算機工学",
+    "subject_code": "COM402k",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "分子生物学",
+    "subject_code": "BIO401k",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "材料力学および演習",
+    "subject_code": "MCE401k",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "メカノデザイン",
+    "subject_code": "MCE402k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "機械力学および演習",
+    "subject_code": "MCE403k",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "知能機械工学基礎実験第一",
+    "subject_code": "MCE501k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "知能機械工学基礎実験第二",
+    "subject_code": "MCE601k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "マシンデザインA",
+    "subject_code": "MCE502k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "マシンデザインB",
+    "subject_code": "MCE602k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "設計基礎工学",
+    "subject_code": "MCE503k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "流体力学および演習",
+    "subject_code": "MCE603k",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "熱力学応用",
+    "subject_code": "MCE504k",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "輪講A",
+    "subject_code": "LAB701k",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "輪講B",
+    "subject_code": "LAB801k",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "卒業研究A",
+    "subject_code": "LAB702k",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "卒業研究B",
+    "subject_code": "LAB802k",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "機構要素設計",
+    "subject_code": "MCE505k",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "生産システム工学",
+    "subject_code": "MCE604k",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "加工学および演習",
+    "subject_code": "MCE506k",
+    "credits": "3",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "基礎制御工学および演習",
+    "subject_code": "MCE507k",
+    "credits": "3",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "材料工学",
+    "subject_code": "MCE605k",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "メカトロニクス",
+    "subject_code": "MCE606k",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "ロボットの機構と力学",
+    "subject_code": "MCE508k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "人間機械システム",
+    "subject_code": "MCE509k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "電気電子計測",
+    "subject_code": "GSE501k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "知能ロボット工学",
+    "subject_code": "MCE607k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "現代制御工学",
+    "subject_code": "MCE608k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "デジタル信号処理",
+    "subject_code": "GSE601k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "生体システム工学",
+    "subject_code": "MCE609k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "自動車工学",
+    "subject_code": "MCE701k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "機械システム",
+    "subject": "航空宇宙工学",
+    "subject_code": "MCE702k",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 機 械 シ ス テ ム プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 148,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=148"
+  }
+]

@@ -1,0 +1,1274 @@
+[
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "線形代数学第二",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "選 択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY202z",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "選 択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY203z",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "選 択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "化学概論第二",
+    "subject_code": "CHM203z",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "選 択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "離散数学",
+    "subject_code": "MTH205c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "確率論",
+    "subject_code": "MTH303c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "計算機通論",
+    "subject_code": "COM301c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "論理設計学",
+    "subject_code": "COM302c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "プログラミング通論",
+    "subject_code": "COM303c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "情報領域演習第一",
+    "subject_code": "COM202c",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "情報領域演習第二",
+    "subject_code": "COM304c",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "情報領域演習第三",
+    "subject_code": "COM401c",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "アルゴリズム論第一",
+    "subject_code": "COM402c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "電気・電子回路",
+    "subject_code": "ELE301c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "複素関数論",
+    "subject_code": "MTH304c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "統計学",
+    "subject_code": "MTH401c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "オペレーションズ・リサーチ基礎",
+    "subject_code": "MSS401c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "応用数学第一",
+    "subject_code": "MTH402c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "コンピュータネットワーク",
+    "subject_code": "COM403c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "コンピュータ設計論",
+    "subject_code": "COM404c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "数値計算",
+    "subject_code": "MTH403c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "オペレーティングシステム論",
+    "subject_code": "COM501c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "情報数理工学実験第一",
+    "subject_code": "COM502c",
+    "credits": "4",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "8"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "情報数理工学実験第二A",
+    "subject_code": "COM601c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "情報数理工学実験第二B",
+    "subject_code": "COM602c",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "輪講A",
+    "subject_code": "LAB701c",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "輪講B",
+    "subject_code": "LAB801c",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "卒業研究A",
+    "subject_code": "LAB702c",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "卒業研究B",
+    "subject_code": "LAB802c",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "形式言語理論",
+    "subject_code": "COM405c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "幾何学概論",
+    "subject_code": "MTH501c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "数値解析",
+    "subject_code": "MTH502c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "アルゴリズム論第二",
+    "subject_code": "COM503c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "言語処理系論",
+    "subject_code": "COM504c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "ヒューマンインタフェース",
+    "subject_code": "COM505c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "プログラム言語論",
+    "subject_code": "COM506c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "データベース論",
+    "subject_code": "COM507c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "応用数学第二",
+    "subject_code": "MTH503c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "グラフとネットワーク",
+    "subject_code": "MTH504c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "シミュレーション理工学",
+    "subject_code": "MTH505c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "情報通信システム",
+    "subject_code": "INS501c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "データサイエンス",
+    "subject_code": "INS502c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "ソフトウェア工学",
+    "subject_code": "COM603c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "情報数理工学",
+    "subject": "ハイパフォーマンスコンピューティング",
+    "subject_code": "MTH602c",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 情 報 数 理 工 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 100,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=100"
+  }
+]

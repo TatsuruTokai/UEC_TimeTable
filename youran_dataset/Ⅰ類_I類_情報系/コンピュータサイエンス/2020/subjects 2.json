@@ -1,0 +1,1250 @@
+[
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "微分積分学第一",
+    "subject_code": "MTH101z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "修得した単位は共通 単位とする。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH201z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "線形代数学第二",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY201z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY202z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "化学概論第二",
+    "subject_code": "CHM202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "離散数学",
+    "subject_code": "MTH205d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "確率論",
+    "subject_code": "MTH301d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "計算機通論",
+    "subject_code": "COM301d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "論理設計学",
+    "subject_code": "COM302d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "プログラミング通論",
+    "subject_code": "COM303d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "情報領域演習第一",
+    "subject_code": "COM202d",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "情報領域演習第二",
+    "subject_code": "COM304d",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "情報領域演習第三",
+    "subject_code": "COM401d",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "アルゴリズム論第一",
+    "subject_code": "COM402d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "電気・電子回路",
+    "subject_code": "ELE301d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "複素関数論",
+    "subject_code": "MTH302d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "統計学",
+    "subject_code": "MTH401d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "オペレーションズ・リサーチ基礎",
+    "subject_code": "MSS401d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "応用数学第一",
+    "subject_code": "MTH402d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "コンピュータネットワーク",
+    "subject_code": "COM403d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "コンピュータ設計論",
+    "subject_code": "COM404d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "数値計算",
+    "subject_code": "MTH403d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "オペレーティングシステム論",
+    "subject_code": "COM501d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "コンピュータサイエンス実験第一",
+    "subject_code": "COM502d",
+    "credits": "4",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "8"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "コンピュータサイエンス実験第二A",
+    "subject_code": "COM601d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "コンピュータサイエンス実験第二B",
+    "subject_code": "COM602d",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "輪講A",
+    "subject_code": "LAB701d",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "輪講B",
+    "subject_code": "LAB801d",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "卒業研究A",
+    "subject_code": "LAB702d",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "卒業研究B",
+    "subject_code": "LAB802d",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "形式言語理論",
+    "subject_code": "COM405d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "幾何学概論",
+    "subject_code": "MTH501d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "数値解析",
+    "subject_code": "MTH502d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "アルゴリズム論第二",
+    "subject_code": "COM503d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "言語処理系論",
+    "subject_code": "COM504d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "ヒューマンインタフェース",
+    "subject_code": "COM505d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "プログラム言語論",
+    "subject_code": "COM506d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "データベース論",
+    "subject_code": "COM507d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "応用数学第二",
+    "subject_code": "MTH503d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "グラフとネットワーク",
+    "subject_code": "MTH504d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "ソフトウェア工学",
+    "subject_code": "COM603d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "シミュレーション理工学",
+    "subject_code": "MTH505d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "コンピュータサイエンス",
+    "subject": "ハイパフォーマンスコンピューティング",
+    "subject_code": "MTH601d",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / コ ン ピ ュ ー タ サ イ エ ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=94"
+  }
+]

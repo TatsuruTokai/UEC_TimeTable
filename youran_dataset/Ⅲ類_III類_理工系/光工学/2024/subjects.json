@@ -1,0 +1,1250 @@
+[
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "線形代数学第二",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY203z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "化学概論第二",
+    "subject_code": "CHM203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "力学",
+    "subject_code": "PHY204n",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / ＃ 必 修 ＃ 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "力学演習",
+    "subject_code": "PHY205n",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / ＃ 必 修 ＃ 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "工学基礎数学および演習",
+    "subject_code": "MTH301n",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / ＃ 必 修 ＃ 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "熱力学",
+    "subject_code": "PHY301n",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / ＃ 必 修 ＃ 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "基礎電磁気学および演習",
+    "subject_code": "PHY302n",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / ＃ 必 修 ＃ 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "電磁気学および演習",
+    "subject_code": "PHY401n",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / ＃ 必 修 ＃ 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "基礎電気回路",
+    "subject_code": "ELE301n",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / ＃ 必 修 ＃ 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "基礎電子回路",
+    "subject_code": "ELE401n",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / ＃ 必 修 ＃ 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "複素関数論",
+    "subject_code": "MTH302n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 選 ＃ 科 択 必 目 修 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "確率統計",
+    "subject_code": "MTH303n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 選 ＃ 科 択 必 目 修 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "計測工学概論",
+    "subject_code": "GSE301n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 選 ＃ 科 択 必 目 修 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "数値解析",
+    "subject_code": "COM301n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 選 ＃ 科 択 必 目 修 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "プログラミング演習",
+    "subject_code": "COM401n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "計算機工学",
+    "subject_code": "COM402n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "分子生物学",
+    "subject_code": "BIO401n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "理工学基礎実験",
+    "subject_code": "ELE402n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "波動と光",
+    "subject_code": "PHY402n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "光工学実験第一",
+    "subject_code": "PHO501n",
+    "credits": "3",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "6"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "光工学実験第二",
+    "subject_code": "PHO601n",
+    "credits": "3",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "6"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "固体電子論",
+    "subject_code": "PHY501n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "基礎量子工学",
+    "subject_code": "PHY502n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "電磁波工学",
+    "subject_code": "ELE501n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "光電子材料学",
+    "subject_code": "PHY601n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "量子エレクトロニクス",
+    "subject_code": "PHO602n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "光波工学",
+    "subject_code": "PHO603n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "画像工学",
+    "subject_code": "ELE601n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "光通信工学",
+    "subject_code": "PHO604n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "輪講A",
+    "subject_code": "LAB701n",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "輪講B",
+    "subject_code": "LAB801n",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "卒業研究A",
+    "subject_code": "LAB702n",
+    "credits": "3",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "卒業研究B",
+    "subject_code": "LAB802n",
+    "credits": "3",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / 必 ＃ ＃ ＃ 修 ＃ ＃ ＃ 科 ＃ ＃ 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "基礎物理化学",
+    "subject_code": "CHM401n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / ＃ 選 ＃ ＃ 択 ＃ ＃ 科 ＃ 目 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "無機化学",
+    "subject_code": "CHM402n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / ＃ 選 ＃ ＃ 択 ＃ ＃ 科 ＃ 目 ＃",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "生体計測工学",
+    "subject_code": "BIO501n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / ＃ 選 ＃ ＃ 択 ＃ ＃ 科 ＃ 目 ＃",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "熱・統計物理学基礎",
+    "subject_code": "PHY602n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / ＃ 選 ＃ ＃ 択 ＃ ＃ 科 ＃ 目 ＃",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "熱・統計物理学応用",
+    "subject_code": "PHY603n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / ＃ 選 ＃ ＃ 択 ＃ ＃ 科 ＃ 目 ＃",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "半導体工学",
+    "subject_code": "PHY604n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / ＃ 選 ＃ ＃ 択 ＃ ＃ 科 ＃ 目 ＃",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "電子回路学",
+    "subject_code": "ELE602n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / ＃ 選 ＃ ＃ 択 ＃ ＃ 科 ＃ 目 ＃",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "光工学",
+    "subject": "計算数理工学",
+    "subject_code": "PHY605n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 光 工 専 学 プ 門 ロ グ 科 ラ 目 ム / ＃ 選 ＃ ＃ 択 ＃ ＃ 科 ＃ 目 ＃",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 160,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=160"
+  }
+]

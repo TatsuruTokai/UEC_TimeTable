@@ -1,0 +1,826 @@
+[
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "微分積分学第一",
+    "subject_code": "MTHlOlz",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "修得した単位は共通 ＞単位とする。 ，",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH20lz",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM20lz",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY203z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "化学概論第―",
+    "subject_code": "CHM203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "離散数学",
+    "subject_code": "MTH205b",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "確率論",
+    "subject_code": "MTH303b",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "計算機通論",
+    "subject_code": "COM30lb",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "論理舌几計学",
+    "subject_code": "ヽ：c し，3り21",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "プログフミング通論",
+    "subject_code": "- M3031",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "情報領域演習第一",
+    "subject_code": "，-)M2 (,~1",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "情報領域演習第二",
+    "subject_code": "M3(4I",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "情報領域演習第＝",
+    "subject_code": "M ll",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "アルゴリズム論第一",
+    "subject_code": "COM402b",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 某 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "電気・電子回路",
+    "subject_code": "ELE30lb",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 某 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "複素関数論",
+    "subject_code": "MTH304b",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 某 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "統計学",
+    "subject_code": "",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 某 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "応用数学第一",
+    "subject_code": "",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 某 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "コンピュータネットワーク",
+    "subject_code": "COM403b",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 某 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "コンピュータ設計論",
+    "subject_code": "cc 904I",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 某 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "プログフミング言語実験",
+    "subject_code": "",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 経 営 社 会 情 報 子巫 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "輪講A",
+    "subject_code": "",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 経 営 社 会 情 報 子巫 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "輪講B",
+    "subject_code": "LAB801b",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 経 営 社 会 情 報 子巫 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "， 2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "卒業研究A",
+    "subject_code": "LAB702b",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 経 営 社 会 情 報 子巫 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "卒業研究B",
+    "subject_code": "",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 経 営 社 会 情 報 子巫 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "オペレーティングシステム論",
+    "subject_code": "",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 経 営 社 会 情 報 子巫 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "経営・社会情報学",
+    "subject": "幾何学概論",
+    "subject_code": "MTH50lb",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 経 営 社 会 情 報 子巫 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 94,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=94"
+  }
+]

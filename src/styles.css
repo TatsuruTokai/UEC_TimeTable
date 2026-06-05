@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100svh;
+  background: #f8fafc;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  letter-spacing: 0;
+}
+
+a {
+  color: inherit;
+}
+
+.uec-csv-panel {
+  background: #edf7ff;
+  border-color: #d6eeff;
+}
+
+.dark .uec-csv-panel {
+  background: #020617 !important;
+  border-color: #334155 !important;
+}
+
+.uec-file-input {
+  background: #ffffff;
+  border-color: #e2e8f0;
+  color: #475569;
+}
+
+.dark .uec-file-input {
+  background: #020617 !important;
+  border-color: #334155 !important;
+  color: #cbd5e1 !important;
+}
+
+.uec-file-input-button {
+  background: #096abf;
+  color: #ffffff;
+}
+
+.dark .uec-file-input-button {
+  background: #096abf !important;
+  color: #ffffff !important;
+}

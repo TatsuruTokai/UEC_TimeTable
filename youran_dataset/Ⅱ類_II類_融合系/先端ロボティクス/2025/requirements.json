@@ -1,0 +1,130 @@
+{
+  "admission_year": 2025,
+  "cluster": "Ⅱ類（融合系）",
+  "course": "先端ロボティクス",
+  "source_pdf": "youran2025-gakuiki.pdf",
+  "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf",
+  "third_year_promotion": {
+    "label": "2年次終了時審査（3年次以降履修条件）",
+    "source_pages": [
+      20,
+      21
+    ],
+    "note": "公式PDFの該当ページを出典として参照。原表テキストは公開版に同梱しない。"
+  },
+  "fourth_year_promotion": {
+    "label": "卒業研究着手審査（4年次相当）",
+    "source_pages": [
+      22,
+      23,
+      24
+    ],
+    "note": "公式PDFの該当ページを出典として参照。原表テキストは公開版に同梱しない。"
+  },
+  "graduation_units": [
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "学工光 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "学工子電 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "ムテスシ 械機 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系合融（類Ⅱ / スクィテボロ 端先 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系合融（類Ⅱ / 御制・測計 ムテスシ / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系合融（類Ⅱ / 学報情子電 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系合融（類Ⅱ / 信通報情 学工 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系合融（類Ⅱ / ィテリュキセ 学報情 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系報情（類Ⅰ / ・考思ンイザデ スンエイサターデ / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系報情（類Ⅰ / ターュピンコ スンエイサ / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系報情（類Ⅰ / 理数報情 学工 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系報情（類Ⅰ / 会社・営経 学報情 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    },
+    {
+      "cluster": "Ⅱ類（融合系）",
+      "course": "先端ロボティクス",
+      "category": "）系報情（類Ⅰ / アィデメ 学報情 / 8",
+      "credits": "6",
+      "source_page": 25,
+      "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=25"
+    }
+  ]
+}

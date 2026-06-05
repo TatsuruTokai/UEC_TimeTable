@@ -1,0 +1,8183 @@
+[
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "哲学Ａ",
+    "subject_code": "HSS301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "８単位を修得すること。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "哲学Ｂ",
+    "subject_code": "HSS401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "倫理学Ａ",
+    "subject_code": "HSS302z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "倫理学Ｂ",
+    "subject_code": "HSS402z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "心理学Ａ",
+    "subject_code": "HSS303z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "心理学Ｂ",
+    "subject_code": "HSS403z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "歴史学Ａ",
+    "subject_code": "HSS304z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "歴史学Ｂ",
+    "subject_code": "HSS404z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "科学史Ａ",
+    "subject_code": "HSS305z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "科学史Ｂ",
+    "subject_code": "HSS405z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "文学Ａ",
+    "subject_code": "HSS306z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "文学Ｂ",
+    "subject_code": "HSS406z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "美術Ａ",
+    "subject_code": "HSS307z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "美術Ｂ",
+    "subject_code": "HSS407z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "音楽Ａ",
+    "subject_code": "HSS308z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "音楽Ｂ",
+    "subject_code": "HSS408z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "経済学Ａ",
+    "subject_code": "HSS309z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "経済学Ｂ",
+    "subject_code": "HSS409z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "社会学Ａ",
+    "subject_code": "HSS310z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "社会学Ｂ",
+    "subject_code": "HSS410z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "法学Ａ",
+    "subject_code": "HSS311z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "法学Ｂ",
+    "subject_code": "HSS411z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "政治学Ａ",
+    "subject_code": "HSS312z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "政治学Ｂ",
+    "subject_code": "HSS412z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "地理学Ａ",
+    "subject_code": "HSS313z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "地理学Ｂ",
+    "subject_code": "HSS413z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "社会思想史Ａ",
+    "subject_code": "HSS314z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "社会思想史Ｂ",
+    "subject_code": "HSS414z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "文化人類学Ａ",
+    "subject_code": "HSS315z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "文化人類学Ｂ",
+    "subject_code": "HSS415z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "技術史",
+    "subject_code": "HSS316z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 人文・社会科学科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Academic Written EnglishⅠ",
+    "subject_code": "ENG101z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目I",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "6単位必修",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Academic Spoken English Ⅰ",
+    "subject_code": "ENG102z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目I",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Academic Written English Ⅱ",
+    "subject_code": "ENG201z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目I",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Academic Spoken English Ⅱ",
+    "subject_code": "ENG202z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目I",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Academic English for the Second Year Ⅰ",
+    "subject_code": "ENG301z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目I",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Academic English for the Second Year Ⅱ",
+    "subject_code": "ENG401z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目I",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "独語第一",
+    "subject_code": "GER101z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "いずれか１言語２単位を修得す ること。 (注４を参照）",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "独語第二",
+    "subject_code": "GER201z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "仏語第一",
+    "subject_code": "FRE101z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "仏語第二",
+    "subject_code": "FRE201z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "露語第一",
+    "subject_code": "RUS101z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "露語第二",
+    "subject_code": "RUS201z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "中国語第一",
+    "subject_code": "CHI101z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "中国語第二",
+    "subject_code": "CHI201z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "韓国朝鮮語第一",
+    "subject_code": "KOR101z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "韓国朝鮮語第二",
+    "subject_code": "KOR201z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化基礎科目II",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択独語第一",
+    "subject_code": "GER102z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "修得した単位は共通単位とす る。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択独語第二",
+    "subject_code": "GER202z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択仏語第一",
+    "subject_code": "FRE102z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択仏語第二",
+    "subject_code": "FRE202z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択露語第一",
+    "subject_code": "RUS102z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択露語第二",
+    "subject_code": "RUS202z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択中国語第一",
+    "subject_code": "CHI102z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択中国語第二",
+    "subject_code": "CHI202z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択韓国朝鮮語第一",
+    "subject_code": "KOR102z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "選択韓国朝鮮語第二",
+    "subject_code": "KOR202z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化応用科目II",
+    "eligible_years": [
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 78,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=78"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "英語演習",
+    "subject_code": "ENG302z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "いずれか１科目２単位を修得するこ と。ただし，日本語演習については， 外国人留学生のみ履修できる。な お，この科目を受講できる者は英語 演習に関しては言語文化基礎科目 Ⅰを，日本語演習に関しては日本語 第一及び第二を，その他の演習に 関しては言語文化基礎科目IIの単位 を既に取得している者に限る。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "独語演習",
+    "subject_code": "GER301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "独語運用演習",
+    "subject_code": "GER401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "仏語演習",
+    "subject_code": "FRE301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "仏語運用演習",
+    "subject_code": "FRE401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "露語演習",
+    "subject_code": "RUS301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "露語運用演習",
+    "subject_code": "RUS401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "中国語演習",
+    "subject_code": "CHI301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "中国語運用演習",
+    "subject_code": "CHI401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "韓国朝鮮語演習",
+    "subject_code": "KOR301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "韓国朝鮮語運用演習",
+    "subject_code": "KOR401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本語演習",
+    "subject_code": "JPN401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 言 語 文 化 科 目 / 言語文化演習科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本語第一",
+    "subject_code": "JPN101z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 日 本 語 ･ 日 本 文 化 科 目 / 日 本 語",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "4"
+      }
+    ],
+    "remarks": "１．外国人留学生のみ履修できる。 ２．外国人留学生は言語文化基礎科 目Ⅰ及び言語文化応用科目Ⅰ（英 語）に代えて，日本語６単位を修得 すること。 ３．日本文化科目の単位は人文・社 会科学科目の単位に含む。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本語第二",
+    "subject_code": "JPN201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 日 本 語 ･ 日 本 文 化 科 目 / 日 本 語",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本語第三",
+    "subject_code": "JPN301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 日 本 語 ･ 日 本 文 化 科 目 / 日 本 語",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本文化Ａ",
+    "subject_code": "FGN101z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 日 本 語 ･ 日 本 文 化 科 目 / 日本文化科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本文化Ｂ",
+    "subject_code": "FGN201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 日 本 語 ･ 日 本 文 化 科 目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本文化Ｃ",
+    "subject_code": "FGN301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 日 本 語 ･ 日 本 文 化 科 目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本文化Ｄ",
+    "subject_code": "FGN401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 日 本 語 ･ 日 本 文 化 科 目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本文化Ｅ",
+    "subject_code": "FGN302z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 日 本 語 ･ 日 本 文 化 科 目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "健康・体力つくり実習",
+    "subject_code": "HSP101z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 健康・スポーツ科学科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "1"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（2）"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（1）"
+      }
+    ],
+    "remarks": "生涯スポーツ演習1単位必修。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "健康論",
+    "subject_code": "HSP201z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 健康・スポーツ科学科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "1"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（1）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "生涯スポーツ演習Ａ",
+    "subject_code": "HSP301z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 健康・スポーツ科学科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "生涯スポーツ演習Ｂ",
+    "subject_code": "HSP401z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 健康・スポーツ科学科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "生涯スポーツ演習Ｃ",
+    "subject_code": "HSP302z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 健康・スポーツ科学科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（夏期集中講義）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "生涯スポーツ演習Ｄ",
+    "subject_code": "HSP402z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 健康・スポーツ科学科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "（冬期集中講義）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "宇宙・地球科学",
+    "subject_code": "GEO201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 理工系教養科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "２単位を修得すること。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "物理学概論第三",
+    "subject_code": "PHY301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 理工系教養科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "UECパスポートセミナー",
+    "subject_code": "UEC201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 理工系教養科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "生物学",
+    "subject_code": "BIO201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 理工系教養科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "化学とエネルギー",
+    "subject_code": "CHM301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 理工系教養科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "材料化学",
+    "subject_code": "CHM201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 理工系教養科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "現代数学入門Ａ",
+    "subject_code": "MTH301z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 理工系教養科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "現代数学入門Ｂ",
+    "subject_code": "MTH302z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 理工系教養科目 / 日本文化科目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 79,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=79"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "数学の哲学",
+    "subject_code": "HSS501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "偶数年度開講 奇数年度開講 隔年開講科目 ★印は偶数年度開講 ☆印は奇数年度開講 外国人留学生の履修を優先する。 偶数年度開講 集中講義） 奇数年度開講 外国人留学生の履修を優先する。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "科学的実在論の可能性",
+    "subject_code": "HSS502z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "内包的文脈の諸相",
+    "subject_code": "HSS601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "人間と外交",
+    "subject_code": "HSS503z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本の内政と外交",
+    "subject_code": "HSS504z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "現代の世界政治",
+    "subject_code": "HSS602z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "王朝物語の精神史",
+    "subject_code": "HSS506z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "心の科学",
+    "subject_code": "HSS604z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "認知科学",
+    "subject_code": "HSS605z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "江戸の社会と数学",
+    "subject_code": "HSS507z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "伝統科学と近代科学の相克",
+    "subject_code": "HSS606z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "現代の教育",
+    "subject_code": "HSS508z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "教育と憲法（日本国憲法）",
+    "subject_code": "HSS509z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "（夏季集中講義）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★教育の歴史",
+    "subject_code": "HSS607z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆人間と教育",
+    "subject_code": "HSS608z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "科学技術と人間",
+    "subject_code": "HSS510z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "環境論",
+    "subject_code": "HSS609z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "倫理学と哲学の間",
+    "subject_code": "HSS611z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "ドイツ倫理学",
+    "subject_code": "HSS511z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "英米倫理学",
+    "subject_code": "HSS612z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / Ａ類 文 化 と 社 会",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★Reading Scientific Research",
+    "subject_code": "ENG501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆Research Writing",
+    "subject_code": "ENG601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★Research Presentation",
+    "subject_code": "ENG502z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆Advanced Reading in Academic English",
+    "subject_code": "ENG602z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★English for Interpersonal Communication",
+    "subject_code": "ENG603z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆English for Intercultural Communication",
+    "subject_code": "ENG503z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆Preparation for Overseas Study",
+    "subject_code": "ENG504z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★Preparation for Graduate School",
+    "subject_code": "ENG604z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用A 【独語】",
+    "subject_code": "GER501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用A 【仏語】",
+    "subject_code": "FRE501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用A 【露語】",
+    "subject_code": "RUS501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用A 【中国語】",
+    "subject_code": "CHI501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用A 【韓国朝鮮語】",
+    "subject_code": "KOR501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用B 【独語】",
+    "subject_code": "GER601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用B 【仏語】",
+    "subject_code": "FRE601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用B 【露語】",
+    "subject_code": "RUS601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用B 【中国語】",
+    "subject_code": "CHI601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語とその運用B 【韓国朝鮮語】",
+    "subject_code": "KOR601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "比較文化論",
+    "subject_code": "HSS512z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / B類 言語によるコミュニ ケーション",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "地域文化論",
+    "subject_code": "HSS613z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / C類 異 文 化 の 理 解",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "文化干渉論",
+    "subject_code": "HSS513z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / C類 異 文 化 の 理 解",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "国際文化論",
+    "subject_code": "HSS614z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / C類 異 文 化 の 理 解",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "文化と言語",
+    "subject_code": "HSS615z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / C類 異 文 化 の 理 解",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "外国語との対比による日本語表現",
+    "subject_code": "HSS514z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / C類 異 文 化 の 理 解",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本語とコミュニケーションA",
+    "subject_code": "JPN501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / C類 異 文 化 の 理 解",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本語とコミュニケーションB",
+    "subject_code": "JPN601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / C類 異 文 化 の 理 解",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★現代物理学を創った人々",
+    "subject_code": "GSC501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / D類 現 代 の 科 学",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "サイエンス・コミュニケーション演習",
+    "subject_code": "GSC502z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / D類 現 代 の 科 学",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆物理学の発展と最前線",
+    "subject_code": "GSC601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / D類 現 代 の 科 学",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "応用代数学",
+    "subject_code": "MTH601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / D類 現 代 の 科 学",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "現代化学",
+    "subject_code": "GSC602z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / D類 現 代 の 科 学",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "情報と職業",
+    "subject_code": "GSC503z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / D類 現 代 の 科 学",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本の科学と技術A",
+    "subject_code": "GSE501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / D類 現 代 の 科 学",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日本の科学と技術B",
+    "subject_code": "GSE601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / D類 現 代 の 科 学",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "身体運動のバイオメカニクス",
+    "subject_code": "HSP501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / E類 健康とスポーツの科学",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "運動と筋の科学",
+    "subject_code": "HSP502z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / E類 健康とスポーツの科学",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "健康の科学",
+    "subject_code": "HSP601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / E類 健康とスポーツの科学",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "エイジングの健康科学",
+    "subject_code": "HSP503z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / E類 健康とスポーツの科学",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "スポーツとコミュニケーション",
+    "subject_code": "HSP602z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / E類 健康とスポーツの科学",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "体力の科学",
+    "subject_code": "HSP603z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / E類 健康とスポーツの科学",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "日常生活の対人関係",
+    "subject_code": "HSP504z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / E類 健康とスポーツの科学",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "現代社会と対人関係",
+    "subject_code": "HSP604z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 上 級 科 目 / E類 健康とスポーツの科学",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 80,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=80"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★Reading Scientific Research",
+    "subject_code": "INT501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "昼間コース学生，夜間主コース 学生ともに上級科目の単位とす る。 ★印は偶数年度開講、☆印は奇 数年度開講 昼間コース学生は，1・2年次で 修得した単位は言語文化演習 科目に，3・4年次で修得した単 位は上級科目とする。夜間主 コース学生は3・4年次でのみ履 修でき，上級科目とする。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★Research Presentation",
+    "subject_code": "INT502z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★Preparation for Graduate School",
+    "subject_code": "INT601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "★English for Interpersonal Communication",
+    "subject_code": "INT602z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆Research Writing",
+    "subject_code": "INT603z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆Preparation for Overseas Study",
+    "subject_code": "INT503z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆Advanced Reading in Academic English",
+    "subject_code": "INT604z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "☆English for Intercultural Communication",
+    "subject_code": "INT504z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "UEC Academic Skills Ⅰ (Computer Literacy)",
+    "subject_code": "INT001z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "(2)"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "UEC Academic Skills Ⅱ (Information Literacy and Research)",
+    "subject_code": "INT002z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "UEC Academic Skills Ⅲ (Publishing Literacy and Research)",
+    "subject_code": "INT003z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Introduction to Computational Methods in Science and Engineering",
+    "subject_code": "INT505z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "海外語学研修Ⅰ",
+    "subject_code": "INT004z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "集中（１-７学期のいずれかの学期）"
+      }
+    ],
+    "remarks": "修得した単位は共通単位とする。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "海外語学研修Ⅱ",
+    "subject_code": "INT005z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "集中（１-７学期のいずれかの学期）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "サマートレーニング",
+    "subject_code": "INT006z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 国 際 科 目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "集中（5-8学期の いずれかの学 期）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "学域特別講義A",
+    "subject_code": "UEC001z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 特 別 講 義",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      }
+    ],
+    "remarks": "開講学期や単位の扱い等につ いては，注5を参照",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "学域特別講義B",
+    "subject_code": "UEC002z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "総 合 文 化 科 目 / 特 別 講 義",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "総合コミュニケーション科学",
+    "subject_code": "UEC101z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 初年次導入科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "８単位必修",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "基礎科学実験A",
+    "subject_code": "PHY101z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 初年次導入科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "4"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "（4）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "基礎科学実験B",
+    "subject_code": "CHM101z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 初年次導入科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "（4）"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "コンピュータリテラシー",
+    "subject_code": "COM101z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 初年次導入科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "キャリア教育基礎",
+    "subject_code": "CAR101z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "４単位を修得すること。 インターンシップの取扱いに ついては，別に定める。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "キャリア教育リーダー",
+    "subject_code": "CAR501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "キャリアデザイン",
+    "subject_code": "CAR401z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "イノベイティブ総合コミュ二ケーションデザイン1",
+    "subject_code": "CAR502z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "イノベイティブ総合コミュ二ケーションデザイン2",
+    "subject_code": "CAR601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "インターンシップ",
+    "subject_code": "CAR503z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "インターンシップ（海外）",
+    "subject_code": "CAR504z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "ベンチャービジネス概論",
+    "subject_code": "CAR505z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "（2）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "知的財産権",
+    "subject_code": "CAR602z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "技術者倫理",
+    "subject_code": "CAR603z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 倫理・キャリア教育科目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Technical English – Basic English for Science",
+    "subject_code": "TEN501z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 技 術 英 語 科 目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "４単位必修",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Technical English – Intermediate English for Science",
+    "subject_code": "TEN601z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 技 術 英 語 科 目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 81,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=81"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "微分積分学第一",
+    "subject_code": "MTH101z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "修得した単位は共通 単位とする。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH201z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "線形代数学第二",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY201z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY202z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "化学概論第二",
+    "subject_code": "CHM202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "離散数学",
+    "subject_code": "MTH205a",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "確率論",
+    "subject_code": "MTH301a",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "計算機通論",
+    "subject_code": "COM301a",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "論理設計学",
+    "subject_code": "COM302a",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "プログラミング通論",
+    "subject_code": "COM303a",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "情報領域演習第一",
+    "subject_code": "COM202a",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "情報領域演習第二",
+    "subject_code": "COM304a",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "情報領域演習第三",
+    "subject_code": "COM401a",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "アルゴリズム論第一",
+    "subject_code": "COM402a",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "電気・電子回路",
+    "subject_code": "ELE301a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "複素関数論",
+    "subject_code": "MTH302a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "統計学",
+    "subject_code": "MTH401a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "オペレーションズ・リサーチ基礎",
+    "subject_code": "MSS401a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "応用数学第一",
+    "subject_code": "MTH402a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "コンピュータネットワーク",
+    "subject_code": "COM403a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "コンピュータ設計論",
+    "subject_code": "COM404a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 共 通 基 礎 科 目 / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "メディア情報学プログラミング演習",
+    "subject_code": "COM405a",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "プログラミング言語実験",
+    "subject_code": "COM501a",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "メディア情報学実験",
+    "subject_code": "COM601a",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "輪講A",
+    "subject_code": "LAB701a",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "輪講B",
+    "subject_code": "LAB801a",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "卒業研究A",
+    "subject_code": "LAB702a",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "卒業研究B",
+    "subject_code": "LAB802a",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "社会情報論",
+    "subject_code": "MSS402a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "形式言語理論",
+    "subject_code": "COM406a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "オペレーティングシステム論",
+    "subject_code": "COM502a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "幾何学概論",
+    "subject_code": "MTH501a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "情報通信システム",
+    "subject_code": "ELE501a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "人間工学",
+    "subject_code": "MSS501a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "インタラクティブシステム",
+    "subject_code": "ELE502a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "コミュニケーション論",
+    "subject_code": "INS501a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "メディア分析法",
+    "subject_code": "COM503a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "メディアリテラシー",
+    "subject_code": "INS502a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "ソフトウェア工学",
+    "subject_code": "COM602a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "進化計算論",
+    "subject_code": "COM603a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "ユビキタスネットワーク",
+    "subject_code": "COM604a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "言語認知工学",
+    "subject_code": "INS601a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "物体認識論",
+    "subject_code": "INS602a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 82,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=82"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "ビジュアル情報処理",
+    "subject_code": "INS503a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "通年１〜４年次開講 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目（偶数年度開講） 大学院連携科目（奇数年度開講） 授業時間は週2時間。 開講学期や単位の扱 い等については注4 を参照。",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "メディア論",
+    "subject_code": "INS603a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "音響信号処理",
+    "subject_code": "ELE601a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "情報工学工房",
+    "subject_code": "COM001a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "※基礎数学演習第一",
+    "subject_code": "FGN101a",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "※基礎数学演習第二",
+    "subject_code": "FGN201a",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "※基礎物理学演習第一",
+    "subject_code": "FGN102a",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "※基礎物理学演習第二",
+    "subject_code": "FGN202a",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "※情報処理演習第一",
+    "subject_code": "FGN301a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "※情報処理演習第二",
+    "subject_code": "FGN401a",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "マルチメディア処理",
+    "subject_code": "COM504a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "メディアアート論",
+    "subject_code": "INSa01a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "知的学習システム",
+    "subject_code": "INSa02a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "コンピュータグラフィックス応用",
+    "subject_code": "COMa01a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "データマイニング",
+    "subject_code": "INSa03a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "音声音響情報処理",
+    "subject_code": "INSa04a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "学習工学特論",
+    "subject_code": "INSa05a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "インタラクティブシステム特論",
+    "subject_code": "INSa06a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "実践ソフトウェア開発基礎論",
+    "subject_code": "COMa02a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "実践ソフトウェア開発概論Ⅱ",
+    "subject_code": "COMa03a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "実践ソフトウェア開発概論Ⅲ",
+    "subject_code": "COMb01a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "画像認識システム特論",
+    "subject_code": "INSb01a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "情報理論基礎",
+    "subject_code": "ELEb01a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "数理統計学基礎",
+    "subject_code": "MTHb01a",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "現代代数学",
+    "subject_code": "MTHb02b",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "数理解析学",
+    "subject_code": "MTHb03b",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Topics in Informatics Ⅰ",
+    "subject_code": "INT001a",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 科国 目際",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Topics in Informatics Ⅱ",
+    "subject_code": "INT002a",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 科国 目際",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  },
+  {
+    "admission_year": 2020,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "メディア情報学",
+    "subject": "Topics in Informatics Ⅲ",
+    "subject_code": "INT003a",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / メ デ ィ ア 情 報 学 プ ロ グ ラ ム / 科国 目際",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2020-gakuiki.pdf",
+    "source_page": 83,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2020-gakuiki.pdf#page=83"
+  }
+]

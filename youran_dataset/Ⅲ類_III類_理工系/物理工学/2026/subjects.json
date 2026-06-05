@@ -1,0 +1,1342 @@
+[
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "微分積分学",
+    "subject_code": "MTHlOlz",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "修得した単位は共通 単位とする。 ，",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "微分積分学",
+    "subject_code": "MTH20lz",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "，泉形代数学",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "根形代数学",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "辟析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "数学演習第一",
+    "subject_code": "MTl-ll03z",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "数学演習第",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "物理学概論第",
+    "subject_code": "PHY202z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "基碍プログフミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "理 数 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "物理学演習第＿",
+    "subject_code": "PHY203z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "化学概論第",
+    "subject_code": "CHM203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "理 数 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "力学",
+    "subject_code": "PHY204o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "力学演習",
+    "subject_code": "PHY205o",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "工学某礎数学および演習",
+    "subject_code": "MTH30lp",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "熱力学",
+    "subject_code": "PHY301o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "基碍竃磁気学および演習",
+    "subject_code": "PHY302o",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "電磁気学および演習",
+    "subject_code": "PHY40lo",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "基礎電気回路",
+    "subject_code": "ELE30lo",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "基碗電子回路",
+    "subject_code": "ELE40lo",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "プログフミング演習",
+    "subject_code": "COM401D",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "複素関数論",
+    "subject_code": "MTH302p",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 、二科選択 目必 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "確率統計",
+    "subject_code": "MTH303o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 、二科選択 目必 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "計測工学概論",
+    "subject_code": "GSE30lo",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 、二科選択 目必 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "数値解析",
+    "subject_code": "COM301D",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 、二科選択 目必 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "計算機工学",
+    "subject_code": "COM402n",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "分子生物学",
+    "subject_code": "8104010",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 .，，‘ ±l: 通 基 碗 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "理工学基礎実験",
+    "subject_code": "ELE402o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "油動と光 1",
+    "subject_code": "PHY402o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "物理工学実験第一",
+    "subject_code": "PHY501o",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "6"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "物理工学実験第",
+    "subject_code": "PHY601o",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "6"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "解析力学",
+    "subject_code": "PHY502o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "址子力学第一",
+    "subject_code": "PHY503D",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "試子力学第一演習",
+    "subject_code": "PHY504o",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "熱・統計物理学基礎",
+    "subject_code": "PHY602o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "熱・統計物理学応用",
+    "subject_code": "PHY603o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "固体物理工学第一",
+    "subject_code": "PHY505o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "固体物理工学第",
+    "subject_code": "PHY604o",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "倫講A",
+    "subject_code": "LAB70lo",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "綸講B",
+    "subject_code": "LAB80lo",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "， 2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "卒業研究A",
+    "subject_code": "LAB702p",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "卒業研究B",
+    "subject_code": "LAB802p",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "蘊子力学第＿",
+    "subject_code": "PHY605o",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 科選 択 必 目修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "呈子力学第ー演習",
+    "subject_code": "PHY606o",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 科選 択 必 目修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "品子工レクトロニクス",
+    "subject_code": "PH060lp",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 科選 択 必 目修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "回折結晶学",
+    "subject_code": "PHY506o",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 科選 択 必 目修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "（夏期集中講義）"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "基礎物理化学",
+    "subject_code": "CHM40lp",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "無機化学",
+    "subject_code": "CHM402p",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "固体電子論",
+    "subject_code": "PHY507p",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "半導体工学",
+    "subject_code": "PHY607o",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "電子回路学",
+    "subject_code": "ELE60lp",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "計算数理工学",
+    "subject_code": "PHY608o",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "電子デバイス",
+    "subject_code": "PHY609o",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "物理工学",
+    "subject": "サイエンス工房A",
+    "subject_code": "GSElOlp",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / 物 理 工 学-r 一 プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1,
+      2,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 166,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=166"
+  }
+]

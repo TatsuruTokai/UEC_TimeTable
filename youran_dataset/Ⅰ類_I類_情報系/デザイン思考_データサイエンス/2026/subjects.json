@@ -1,0 +1,722 @@
+[
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "ュビキタスネットワーク",
+    "subject_code": "COM603e",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "通年1(cid:631)4年次開講 ｝通年 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科目 大学院連携科日（偶数年度開溝） 大学院連携科［l（奇数年度開；膏） GLTP学生のみ履修可 授業時間は週2時間。 OO講学期や単位の扱 ＞ い等については注4 を参照。",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "言語認知工学",
+    "subject_code": "TNS603e",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "ビジュアル情報処理",
+    "subject_code": "INS505e",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "情報工学工房A",
+    "subject_code": "COMOOle",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "※基礎数学演習第一",
+    "subject_code": "FGNlOle",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "※基礎数学演習第二",
+    "subject_code": "FGN20le",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "※基礎物理学演習第一",
+    "subject_code": "FGN102e",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "※基礎物理学演習第二",
+    "subject_code": "FGN202e",
+    "credits": "1",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "※情報処理演習第一",
+    "subject_code": "FGN301e",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "※情報処理演習第―",
+    "subject_code": "FGN40le",
+    "credits": "2",
+    "requirement_type": "選択",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 選 択 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "マルチメディア処理",
+    "subject_code": "COM504e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "情報工学工房B",
+    "subject_code": "COM002e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "情報工学工房C",
+    "subject_code": "COM003e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "メディアアート論",
+    "subject_code": "INSaOle",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "知的学習システム",
+    "subject_code": "INSa02e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "コンピュータグフフィックス応用",
+    "subject_code": "COMaOle",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "データマイニング",
+    "subject_code": "INSa03e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "音声音稗情報処理",
+    "subject_code": "INSa04e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "学習工学特論",
+    "subject_code": "INSa05e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "インタラクティブシステム特論",
+    "subject_code": "INSa06e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "実践ソフトウェア開発基礎論",
+    "subject_code": "COMa02e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "実践ソフトウェア開発概論II",
+    "subject_code": "COMa03e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "実践ソフトウェア開発概論田",
+    "subject_code": "COM印 le",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "画像認識システム特論",
+    "subject_code": "INSbOle",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "情報理論基礎",
+    "subject_code": "ELEbOle",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "数理統計学基礎",
+    "subject_code": "MTHbOle",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "現代代数学",
+    "subject_code": "MTHb02e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "数理解析学",
+    "subject_code": "MTl-lb03e",
+    "credits": "2",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "GLTPラボワーク",
+    "subject_code": "LAB50le",
+    "credits": "1",
+    "requirement_type": "自由",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 自 由 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "Topics inI nformatics I",
+    "subject_code": "INTOOle",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 科国 目廊",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "Topicsin I nformatics II",
+    "subject_code": "INT002e",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 科国 目廊",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  },
+  {
+    "admission_year": 2026,
+    "cluster": "Ⅰ類（情報系）",
+    "course": "デザイン思考・データサイエンス",
+    "subject": "Topics inI nformatics ill",
+    "subject_code": "INT003e",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 専 門 科 目 / デ ザ イ ン 思 考 デ I 夕 サ イ 工 ン ス プ ロ グ ラ ム / 科国 目廊",
+    "eligible_years": [],
+    "semester_hours": [],
+    "remarks": "",
+    "source_pdf": "youran2026-gakuiki.pdf",
+    "source_page": 113,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2026-gakuiki.pdf#page=113"
+  }
+]

@@ -1,0 +1,2475 @@
+[
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "線形代数学第二",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY203z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "化学概論第二",
+    "subject_code": "CHM203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "力学",
+    "subject_code": "PHY204r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "力学演習",
+    "subject_code": "PHY205r",
+    "credits": "1",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "工学基礎数学および演習",
+    "subject_code": "MTH301r",
+    "credits": "3",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "熱力学",
+    "subject_code": "PHY301r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "基礎電磁気学および演習",
+    "subject_code": "PHY302r",
+    "credits": "3",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "基礎電気回路",
+    "subject_code": "ELE301r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "分子生物学",
+    "subject_code": "BIO401r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "複素関数論",
+    "subject_code": "MTH302r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "確率統計",
+    "subject_code": "MTH303r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "計測工学概論",
+    "subject_code": "GSE301r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "数値解析",
+    "subject_code": "COM301r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "電磁気学および演習",
+    "subject_code": "PHY401r",
+    "credits": "3",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "基礎電子回路",
+    "subject_code": "ELE401r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "プログラミング演習",
+    "subject_code": "COM401r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "計算機工学",
+    "subject_code": "COM402r",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目 選 択 必 修 科 目 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "基礎物理化学",
+    "subject_code": "CHM401r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "無機化学",
+    "subject_code": "CHM402r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "理工学基礎実験",
+    "subject_code": "ELE402r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "化学生命工学実験第一",
+    "subject_code": "BCH501r",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "6"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "化学生命工学実験第二",
+    "subject_code": "BCH601r",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "6"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "化学生命工学演習第一",
+    "subject_code": "BCH502r",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "化学生命工学演習第二",
+    "subject_code": "BCH602r",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "物理化学第一",
+    "subject_code": "CHM501r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "有機化学第一",
+    "subject_code": "CHM502r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "生物化学",
+    "subject_code": "BIO501r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "細胞生物工学",
+    "subject_code": "BIO502r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "神経科学",
+    "subject_code": "BIO601r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "輪講Ａ",
+    "subject_code": "LAB701r",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "輪講Ｂ",
+    "subject_code": "LAB801r",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "卒業研究Ａ",
+    "subject_code": "LAB702r",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "卒業研究Ｂ",
+    "subject_code": "LAB802r",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "波動と光",
+    "subject_code": "PHY402r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "機器分析学",
+    "subject_code": "CHM503r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "生体計測工学",
+    "subject_code": "BIO503r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "物理化学第二",
+    "subject_code": "CHM601r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "有機化学第二",
+    "subject_code": "CHM602r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "高分子有機化学",
+    "subject_code": "CHM603r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "システム生物学",
+    "subject_code": "BIO602r",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 化 学 生 専 命 工 門 学 プ ロ 科 グ ラ 目 ム / 必 修 科 目 選 科 択 必 目 修",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 172,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=172"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "倫理学",
+    "subject_code": "HSS202s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "心理学",
+    "subject_code": "HSS203s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "歴史学",
+    "subject_code": "HSS101s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "科学史",
+    "subject_code": "HSS204s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "文学",
+    "subject_code": "HSS205s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "音楽",
+    "subject_code": "HSS102s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "社会学",
+    "subject_code": "HSS103s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "法学",
+    "subject_code": "HSS104s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "地理学",
+    "subject_code": "HSS105s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "社会思想史",
+    "subject_code": "HSS106s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "(2)"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "(2)"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "科学という文化",
+    "subject_code": "HSS501s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "上級科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "4単位を修得 すること。",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "科学技術と倫理",
+    "subject_code": "HSS502s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "上級科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "国際文化論",
+    "subject_code": "HSS503s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "上級科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "国際技術協力論",
+    "subject_code": "HSS701s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "上級科目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "応用幾何学",
+    "subject_code": "MTH401s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "上級科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "応用代数学",
+    "subject_code": "MTH402s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "上級科目",
+    "eligible_years": [
+      1,
+      3,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "(2)"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "Academic Written English I",
+    "subject_code": "ENG101s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "言語文化科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "8単位必修",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "Academic Written English II",
+    "subject_code": "ENG201s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "言語文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "Academic Spoken English I",
+    "subject_code": "ENG102s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "言語文化科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "Academic Spoken English II",
+    "subject_code": "ENG202s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "言語文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "Academic English for the 2nd Year I",
+    "subject_code": "ENG301s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "言語文化科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "Academic English for the 2nd Year II",
+    "subject_code": "ENG401s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "言語文化科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "Academic Presentation in English",
+    "subject_code": "ENG501s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "言語文化科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "Academic Writing in English",
+    "subject_code": "ENG601s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "言語文化科目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "健康実践論",
+    "subject_code": "HSP101s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "健康科学科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "2単位必修",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "環境科学",
+    "subject_code": "GSC301s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "理工系教養科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "2単位を修得 すること。",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "アカデミックリテラシー",
+    "subject_code": "MTH101s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 初年次導入科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "6単位必修 2単位を修得 すること。",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "コンピュータリテラシー",
+    "subject_code": "COM101s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 初年次導入科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "基礎物理学実験",
+    "subject_code": "PHY201s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 初年次導入科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "基礎化学実験",
+    "subject_code": "CHM201s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 初年次導入科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "総合コミュニケーション科学",
+    "subject_code": "UEC301s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / データサイエンス科目",
+    "eligible_years": [
+      1,
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "データサイエンス演習",
+    "subject_code": "UEC501s",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / データサイエンス科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "技術課程演習第一",
+    "subject_code": "CAR501s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 産学連携教育科目",
+    "eligible_years": [
+      1,
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "4単位必修",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "技術課程演習第二",
+    "subject_code": "CAR601s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 産学連携教育科目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "◎"
+      },
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "知的財産権",
+    "subject_code": "CAR701s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 技術者教養科目",
+    "eligible_years": [
+      1,
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      },
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "2単位を修得 すること。",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  },
+  {
+    "admission_year": 2025,
+    "cluster": "Ⅲ類（理工系）",
+    "course": "化学生命工学",
+    "subject": "技術者倫理",
+    "subject_code": "CAR801s",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "実 践 教 育 科 目 / 技術者教養科目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "○"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2025-gakuiki.pdf",
+    "source_page": 180,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2025-gakuiki.pdf#page=180"
+  }
+]

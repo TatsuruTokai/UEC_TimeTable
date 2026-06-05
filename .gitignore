@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.local
+*.log
+__pycache__/
+*.py[cod]
+
+# Local/private generated data
+degree_audit_reports/
+source_pdfs/
+extracted/raw_pdfs/
+extracted/raw_text/
+youran_dataset/raw_tables/
+
+# Official or official-derived map/media assets; link to sources instead.
+private_assets/
+public/map/
+uec_3d_map/

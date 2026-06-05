@@ -1,0 +1,1202 @@
+[
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "微分積分学第二",
+    "subject_code": "MTH201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "線形代数学第一",
+    "subject_code": "MTH102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "線形代数学第二",
+    "subject_code": "MTH202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "解析学",
+    "subject_code": "MTH203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "数学演習第一",
+    "subject_code": "MTH103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "数学演習第二",
+    "subject_code": "MTH204z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "物理学概論第一",
+    "subject_code": "PHY102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "物理学概論第二",
+    "subject_code": "PHY202z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "化学概論第一",
+    "subject_code": "CHM102z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "基礎プログラミングおよび演習",
+    "subject_code": "COM201z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "物理学演習第一",
+    "subject_code": "PHY103z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 1,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "物理学演習第二",
+    "subject_code": "PHY203z",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "化学概論第二",
+    "subject_code": "CHM203z",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "科選 目択",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "確率統計",
+    "subject_code": "MTH301j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "力学",
+    "subject_code": "PHY204j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      1
+    ],
+    "semester_hours": [
+      {
+        "semester": 2,
+        "year": 1,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "基礎電気回路",
+    "subject_code": "ELE301j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "基礎電磁気学",
+    "subject_code": "PHY301j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "力学演習",
+    "subject_code": "PHY302j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "基礎演習Ａ",
+    "subject_code": "GSE301j",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 共 通 基 礎 科 目 / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "複素関数論",
+    "subject_code": "MTH302j",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 選 科 択 必 目 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "数値解析およびプログラミング演習",
+    "subject_code": "COM301j",
+    "credits": "3",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 選 科 択 必 目 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "応用数学Ａ",
+    "subject_code": "MTH303j",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 選 科 択 必 目 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "応用数学Ｂ",
+    "subject_code": "MTH401j",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 選 科 択 必 目 修",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "離散数学",
+    "subject_code": "MTH304j",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "波動と光",
+    "subject_code": "PHY303j",
+    "credits": "2",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科選 目択",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 3,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "アルゴリズムとデータ構造およびプログラミング演習",
+    "subject_code": "COM401j",
+    "credits": "3",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科自 目由",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "基礎演習Ｂ",
+    "subject_code": "MTH402j",
+    "credits": "1",
+    "requirement_type": "未判定",
+    "category_path": "類 共 通 基 礎 科 目 / 科自 目由",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "機械力学および演習 材料力学および演習",
+    "subject_code": "MCE401j MCE402j",
+    "credits": "3 3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "3 3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "メカノデザイン",
+    "subject_code": "MCE403j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "ロボットの機構と力学",
+    "subject_code": "MCE501j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "人間機械システム",
+    "subject_code": "MCE502j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "メカトロニクス基礎実験Ａ",
+    "subject_code": "MCE503j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "メカトロニクス基礎実験Ｂ",
+    "subject_code": "MCE601j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "マシンデザインＡ",
+    "subject_code": "MCE504j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "マシンデザインＢ",
+    "subject_code": "MCE602j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "4"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "知能ロボット工学",
+    "subject_code": "MCE603j",
+    "credits": "2",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "輪講Ａ",
+    "subject_code": "LAB701j",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "輪講Ｂ",
+    "subject_code": "LAB801j",
+    "credits": "1",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "卒業研究Ａ",
+    "subject_code": "LAB702j",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 7,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "卒業研究Ｂ",
+    "subject_code": "LAB802j",
+    "credits": "3",
+    "requirement_type": "必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 必 修 科 目",
+    "eligible_years": [
+      4
+    ],
+    "semester_hours": [
+      {
+        "semester": 8,
+        "year": 4,
+        "hours": "9"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "計算機アーキテクチャー",
+    "subject_code": "COM402j",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "計算機工学",
+    "subject_code": "COM403j",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "プログラミング演習",
+    "subject_code": "COM404j",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      2
+    ],
+    "semester_hours": [
+      {
+        "semester": 4,
+        "year": 2,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "基礎制御工学および演習",
+    "subject_code": "MCE505j",
+    "credits": "3",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "加工学および演習",
+    "subject_code": "MCE506j",
+    "credits": "3",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "熱力学および演習",
+    "subject_code": "MCE507j",
+    "credits": "3",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 5,
+        "year": 3,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "流体力学および演習",
+    "subject_code": "MCE604j",
+    "credits": "3",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "3"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "電子回路学",
+    "subject_code": "ELE601j",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "材料工学",
+    "subject_code": "MCE605j",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  },
+  {
+    "admission_year": 2024,
+    "cluster": "Ⅱ類（融合系）",
+    "course": "先端ロボティクス",
+    "subject": "メカトロニクス",
+    "subject_code": "MCE606j",
+    "credits": "2",
+    "requirement_type": "選択必修",
+    "category_path": "類 専 門 科 目 / 先 端 ロ ボ テ ィ ク ス プ ロ グ ラ ム / 選 択 必 修 科 目",
+    "eligible_years": [
+      3
+    ],
+    "semester_hours": [
+      {
+        "semester": 6,
+        "year": 3,
+        "hours": "2"
+      }
+    ],
+    "remarks": "",
+    "source_pdf": "youran2024-gakuiki.pdf",
+    "source_page": 142,
+    "source_url": "https://kyoumu.office.uec.ac.jp/youran/youran2024-gakuiki.pdf#page=142"
+  }
+]
