@@ -2,8 +2,9 @@ import { useEffect, useMemo, useState } from "react";
 import { CATEGORY_COLORS } from "./data/defaultData";
 import { emptyCatalog, loadCatalogData, type CatalogData } from "./data/catalog";
 import { repository } from "./storage/repository";
-import type { AppState, Assignment, CatalogSubject, Course, CourseCategory, DayOfWeek, GradeCsvImport, ScreenId, UserSettings } from "./types";
+import type { AppState, Assignment, CatalogSubject, Course, CourseCategory, DayOfWeek, GradeCsvImport, ScreenId, TimetableEntry, UserSettings } from "./types";
 import { evaluateCredits } from "./utils/credits";
+import { normalizeSubjectForTimetable, timetableEntryTimeLabel } from "./utils/timetable";
 import { CourseModal } from "./components/CourseModal";
 import { CreditsView } from "./components/CreditsView";
 import { Dashboard } from "./components/Dashboard";
@@ -24,24 +25,32 @@ const inferCategory = (subject: CatalogSubject): CourseCategory => {
   return "選択";
 };
 
-const createCourseDraft = (day?: DayOfWeek, period?: number, subject?: CatalogSubject): Course => {
+const createCourseDraft = (day?: DayOfWeek, period?: number, subject?: CatalogSubject, timetableEntry?: TimetableEntry): Course => {
   const category = subject ? inferCategory(subject) : "選択";
+  const sourceMemo = timetableEntry
+    ? `2026年度時間割: ${timetableEntry.dayLabel}${timetableEntryTimeLabel(timetableEntry)} / ${timetableEntry.sourcePdf}`
+    : "";
   return {
     id: createId("course"),
-    name: subject?.subject ?? "",
-    instructor: "",
-    dayOfWeek: day ?? "mon",
-    period: period ?? 1,
-    semester: "first",
+    name: subject?.subject ?? timetableEntry?.subject ?? "",
+    instructor: timetableEntry?.instructor ?? "",
+    dayOfWeek: timetableEntry?.dayOfWeek ?? day ?? "mon",
+    period: timetableEntry?.period ?? period ?? 1,
+    periodEnd: timetableEntry?.periodEnd ?? timetableEntry?.period ?? period ?? 1,
+    startTime: timetableEntry?.startTime ?? "",
+    endTime: timetableEntry?.endTime ?? "",
+    semester: timetableEntry?.semester ?? "first",
     credits: subject ? Number(subject.credits) || 2 : 2,
     category,
     classroomId: "",
-    buildingName: "",
-    syllabusUrl: subject?.source_url ?? "",
+    buildingName: timetableEntry?.classroom ?? "",
+    syllabusUrl: subject?.source_url ?? timetableEntry?.sourceUrl ?? "",
     relatedUrl: "",
-    memo: subject?.remarks ?? "",
+    memo: [subject?.remarks, sourceMemo].filter(Boolean).join("\n"),
     color: CATEGORY_COLORS[category],
     status: "planned",
+    sourceTimetableEntryId: timetableEntry?.id,
+    sourceTimetablePdf: timetableEntry?.sourcePdf,
   };
 };
 
@@ -71,6 +80,20 @@ export default function App() {
     () => evaluateCredits(state, catalog.requirements, catalog.promotionRequirements, catalog.subjects, catalog.categoryAliases, catalog.subjectAliases),
     [catalog.categoryAliases, catalog.promotionRequirements, catalog.requirements, catalog.subjectAliases, catalog.subjects, state],
   );
+
+  const findCatalogSubject = (subjectName: string) => {
+    const scoped = [...catalog.subjects, ...(state.customSubjects ?? [])].filter(
+      (subject) =>
+        subject.admission_year === state.settings.admissionYear &&
+        subject.cluster === state.settings.cluster &&
+        subject.course === state.settings.program,
+    );
+    const normalizedName = normalizeSubjectForTimetable(subjectName);
+    return (
+      scoped.find((subject) => normalizeSubjectForTimetable(subject.subject) === normalizedName) ??
+      scoped.find((subject) => subject.subject.includes(subjectName) || subjectName.includes(subject.subject))
+    );
+  };
 
   const saveCourse = (course: Course) => {
     updateState((current) => {
@@ -155,7 +178,9 @@ export default function App() {
             const course = state.courses.find((item) => item.id === courseId);
             if (course) setEditor({ course, isNew: false });
           }}
-          onCreateFromSubject={(subject) => setEditor({ course: createCourseDraft(undefined, undefined, subject), isNew: true })}
+          onCreateFromSubject={(subject, timetableEntry) => setEditor({ course: createCourseDraft(undefined, undefined, subject, timetableEntry), isNew: true })}
+          onCreateFromTimetableEntry={(timetableEntry) => setEditor({ course: createCourseDraft(undefined, undefined, findCatalogSubject(timetableEntry.subject), timetableEntry), isNew: true })}
+          audit={audit}
         />
       ) : null}
 

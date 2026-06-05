@@ -1,9 +1,11 @@
-import { Plus, Save, Trash2 } from "lucide-react";
+import { CalendarDays, Plus, Save, Trash2 } from "lucide-react";
 import { useMemo, useState } from "react";
 import { CATEGORY_COLORS, COURSE_CATEGORIES, DAYS, PERIODS, SEMESTERS, STATUS_LABELS } from "../data/defaultData";
 import type { CatalogData } from "../data/catalog";
-import type { Assignment, Course, CourseCategory, DayOfWeek, GradeRecord, Semester } from "../types";
+import type { Assignment, Course, CourseCategory, DayOfWeek, GradeRecord, Semester, TimetableEntry } from "../types";
+import { gradeNumber } from "../utils/academicOptions";
 import { findSubjects } from "../utils/search";
+import { findTimetableEntriesForSubject, timetableEntryTimeLabel } from "../utils/timetable";
 import { Button, Field, inputClass, ModalFrame } from "./ui";
 
 const createId = (prefix: string) => `${prefix}-${crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`}`;
@@ -52,7 +54,7 @@ export const CourseModal = ({
   isNew?: boolean;
   catalog: CatalogData;
   state: {
-    settings: { admissionYear: number; cluster: string; program: string };
+    settings: { admissionYear: number; cluster: string; program: string; gradeYear: string };
     classrooms: { id: string; name: string; buildingName: string }[];
     gradeRecords: GradeRecord[];
     customSubjects?: CatalogData["subjects"];
@@ -74,6 +76,7 @@ export const CourseModal = ({
     completed: false,
   });
   const allSubjects = useMemo(() => [...catalog.subjects, ...(state.customSubjects ?? [])], [catalog.subjects, state.customSubjects]);
+  const currentGrade = gradeNumber(state.settings.gradeYear);
   const suggestions = useMemo(
     () =>
       findSubjects(draft.name, allSubjects, state.gradeRecords, {
@@ -83,9 +86,40 @@ export const CourseModal = ({
       }),
     [allSubjects, draft.name, state.gradeRecords, state.settings.admissionYear, state.settings.cluster, state.settings.program],
   );
+  const timetableSuggestions = useMemo(
+    () =>
+      draft.name
+        ? findTimetableEntriesForSubject(
+            catalog.timetableEntries,
+            draft.name,
+            currentGrade || undefined,
+            draft.semester === "first" || draft.semester === "second" ? draft.semester : undefined,
+          ).slice(0, 8)
+        : [],
+    [catalog.timetableEntries, currentGrade, draft.name, draft.semester],
+  );
 
   const set = <K extends keyof Course>(key: K, value: Course[K]) => setDraft((current) => ({ ...current, [key]: value }));
   const selectedClassroom = state.classrooms.find((room) => room.id === draft.classroomId);
+
+  const applyTimetableEntry = (entry: TimetableEntry) => {
+    setDraft((current) => ({
+      ...current,
+      name: current.name.trim() || entry.subject,
+      dayOfWeek: entry.dayOfWeek,
+      period: entry.period,
+      periodEnd: entry.periodEnd ?? entry.period,
+      startTime: entry.startTime ?? "",
+      endTime: entry.endTime ?? "",
+      semester: entry.semester,
+      instructor: entry.instructor ?? current.instructor,
+      buildingName: entry.classroom ?? current.buildingName,
+      syllabusUrl: current.syllabusUrl || entry.sourceUrl,
+      memo: [current.memo, `2026年度時間割: ${entry.dayLabel}${timetableEntryTimeLabel(entry)} / ${entry.sourcePdf}`].filter(Boolean).join("\n"),
+      sourceTimetableEntryId: entry.id,
+      sourceTimetablePdf: entry.sourcePdf,
+    }));
+  };
 
   const submit = () => {
     const normalized = {
@@ -94,6 +128,9 @@ export const CourseModal = ({
       instructor: draft.instructor?.trim(),
       buildingName: selectedClassroom?.buildingName || draft.buildingName?.trim(),
       color: draft.color || CATEGORY_COLORS[draft.category] || "#0d7edb",
+      periodEnd: Math.max(draft.periodEnd ?? draft.period, draft.period),
+      startTime: draft.startTime || undefined,
+      endTime: draft.endTime || undefined,
     };
     if (!normalized.name) return;
     onSave(normalized);
@@ -179,6 +216,29 @@ export const CourseModal = ({
                 ))}
               </div>
             ) : null}
+            {timetableSuggestions.length ? (
+              <div className="sm:col-span-2 grid gap-2 rounded-md border border-uec-100 bg-uec-50 p-3 dark:border-uec-900 dark:bg-uec-950/30">
+                <div className="flex items-center gap-2 text-sm font-semibold text-uec-800 dark:text-uec-100">
+                  <CalendarDays className="h-4 w-4" />
+                  今年の時間割候補
+                </div>
+                <div className="grid gap-2 sm:grid-cols-2">
+                  {timetableSuggestions.map((entry) => (
+                    <button
+                      key={entry.id}
+                      type="button"
+                      onClick={() => applyTimetableEntry(entry)}
+                      className="rounded-md bg-white p-2 text-left text-sm transition hover:bg-uec-100 dark:bg-slate-950 dark:hover:bg-uec-900/40"
+                    >
+                      <div className="font-semibold text-slate-950 dark:text-white">
+                        {entry.dayLabel}{timetableEntryTimeLabel(entry)}
+                      </div>
+                      <div className="mt-0.5 text-xs text-slate-500 dark:text-slate-400">{entry.sourcePdf}</div>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            ) : null}
             <Field label="担当教員">
               <input className={inputClass} value={draft.instructor ?? ""} onChange={(event) => set("instructor", event.target.value)} />
             </Field>
@@ -195,8 +255,24 @@ export const CourseModal = ({
               </select>
             </Field>
             <Field label="時限">
-              <select className={inputClass} value={draft.period} onChange={(event) => set("period", Number(event.target.value))}>
+              <select
+                className={inputClass}
+                value={draft.period}
+                onChange={(event) => {
+                  const period = Number(event.target.value);
+                  setDraft((current) => ({ ...current, period, periodEnd: Math.max(current.periodEnd ?? period, period) }));
+                }}
+              >
                 {PERIODS.map((period) => (
+                  <option key={period} value={period}>
+                    {period}限
+                  </option>
+                ))}
+              </select>
+            </Field>
+            <Field label="終了時限">
+              <select className={inputClass} value={draft.periodEnd ?? draft.period} onChange={(event) => set("periodEnd", Number(event.target.value))}>
+                {PERIODS.filter((period) => period >= draft.period).map((period) => (
                   <option key={period} value={period}>
                     {period}限
                   </option>
@@ -211,6 +287,12 @@ export const CourseModal = ({
                   </option>
                 ))}
               </select>
+            </Field>
+            <Field label="開始時刻">
+              <input className={inputClass} type="time" value={draft.startTime ?? ""} onChange={(event) => set("startTime", event.target.value)} />
+            </Field>
+            <Field label="終了時刻">
+              <input className={inputClass} type="time" value={draft.endTime ?? ""} onChange={(event) => set("endTime", event.target.value)} />
             </Field>
             <Field label="履修状態">
               <select className={inputClass} value={draft.status} onChange={(event) => set("status", event.target.value as Course["status"])}>

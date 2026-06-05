@@ -1,8 +1,8 @@
 import { AlertTriangle, ArrowRight, CheckCircle2, Clock3, DoorOpen, MapPin } from "lucide-react";
-import { PERIOD_TIMES } from "../data/defaultData";
 import type { AppState, Classroom } from "../types";
 import type { CreditAudit } from "../utils/credits";
 import { dayLabel, formatRelativeTime, getFreePeriods, getNextCourse, getTodaysCourses } from "../utils/time";
+import { courseTimeLabel } from "../utils/timetable";
 import { EmptyState, Metric, ProgressBar } from "./ui";
 
 const classroomName = (classrooms: Classroom[], id?: string) => classrooms.find((room) => room.id === id)?.name;
@@ -40,7 +40,7 @@ export const Dashboard = ({
           </div>
         </div>
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          <Metric label="次の授業" value={next ? next.course.name : "なし"} sub={next ? `${dayLabel(next.course.dayOfWeek)} ${next.course.period}限・${formatRelativeTime(next.start)}` : "登録済み授業がありません"} />
+          <Metric label="次の授業" value={next ? next.course.name : "なし"} sub={next ? `${dayLabel(next.course.dayOfWeek)} ${courseTimeLabel(next.course)}・${formatRelativeTime(next.start)}` : "登録済み授業がありません"} />
           <Metric label="次の教室" value={nextClassroom ?? next?.course.buildingName ?? "-"} sub={next?.course.buildingName ?? "教室未設定"} />
           <Metric label="今学期の履修単位" value={`${audit.takingTotal}単位`} sub={`取得済み ${audit.earnedTotal}単位`} />
           <Metric label="卒業進捗" value={`${Math.round(audit.graduationProgress)}%`} sub={`残り ${audit.shortageTotal}単位`} />
@@ -69,11 +69,11 @@ export const Dashboard = ({
                   onClick={() => onOpenCourse(course.id)}
                   className="grid gap-3 rounded-md border border-slate-200 p-3 text-left transition hover:border-uec-300 hover:bg-uec-50/60 dark:border-slate-800 dark:hover:border-uec-700 dark:hover:bg-uec-900/20 sm:grid-cols-[5rem_1fr_auto]"
                 >
-                  <div className="font-semibold text-uec-700 dark:text-uec-100">{course.period}限</div>
+                  <div className="font-semibold text-uec-700 dark:text-uec-100">{courseTimeLabel(course).split(" ")[0]}</div>
                   <div>
                     <div className="font-semibold text-slate-950 dark:text-white">{course.name}</div>
                     <div className="mt-1 flex flex-wrap gap-2 text-sm text-slate-500 dark:text-slate-400">
-                      <span>{PERIOD_TIMES[course.period]?.start}-{PERIOD_TIMES[course.period]?.end}</span>
+                      <span>{courseTimeLabel(course)}</span>
                       <span>{classroomName(state.classrooms, course.classroomId) ?? course.buildingName ?? "教室未設定"}</span>
                       <span>{course.credits}単位</span>
                     </div>

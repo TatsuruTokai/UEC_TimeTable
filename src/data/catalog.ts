@@ -1,4 +1,13 @@
-import type { CatalogSubject, CategoryAliases, PromotionRequirement, PromotionRequirementDataset, RequirementSourceRow, SubjectAliases } from "../types";
+import type {
+  CatalogSubject,
+  CategoryAliases,
+  PromotionRequirement,
+  PromotionRequirementDataset,
+  RequirementSourceRow,
+  SubjectAliases,
+  TimetableEntry,
+  TimetableEntryDataset,
+} from "../types";
 
 export type CatalogData = {
   subjects: CatalogSubject[];
@@ -6,6 +15,7 @@ export type CatalogData = {
   promotionRequirements: PromotionRequirement[];
   categoryAliases: CategoryAliases;
   subjectAliases: SubjectAliases;
+  timetableEntries: TimetableEntry[];
 };
 
 const json = async <T>(path: string): Promise<T> => {
@@ -22,15 +32,24 @@ export const emptyCatalog: CatalogData = {
   promotionRequirements: [],
   categoryAliases: { aliases: {}, category_labels: {} },
   subjectAliases: { aliases: {} },
+  timetableEntries: [],
 };
 
 export const loadCatalogData = async (): Promise<CatalogData> => {
-  const [subjects, requirements, promotionDataset, categoryAliases, subjectAliases] = await Promise.all([
+  const [subjects, requirements, promotionDataset, categoryAliases, subjectAliases, timetableDataset] = await Promise.all([
     json<CatalogSubject[]>(publicPath("data/all_subjects.json")),
     json<RequirementSourceRow[]>(publicPath("data/graduation_requirements.json")),
     json<PromotionRequirementDataset>(publicPath("data/promotion_requirements.json")),
     json<CategoryAliases>(publicPath("data/category_aliases.json")),
     json<SubjectAliases>(publicPath("data/subject_aliases.json")),
+    json<TimetableEntryDataset>(publicPath("data/uec_timetable_entries_2026.json")),
   ]);
-  return { subjects, requirements, promotionRequirements: promotionDataset.requirements, categoryAliases, subjectAliases };
+  return {
+    subjects,
+    requirements,
+    promotionRequirements: promotionDataset.requirements,
+    categoryAliases,
+    subjectAliases,
+    timetableEntries: timetableDataset.entries,
+  };
 };

@@ -1,5 +1,6 @@
 import { DAYS, PERIOD_TIMES } from "../data/defaultData";
 import type { Course, DayOfWeek } from "../types";
+import { courseEndTime, courseOccupiesPeriod, coursePeriodEnd, courseStartTime } from "./timetable";
 
 const jsDayToAppDay: Record<number, DayOfWeek | undefined> = {
   1: "mon",
@@ -32,14 +33,13 @@ export const getCourseStartDate = (course: Course, date = new Date()): Date => {
   const currentDay = todayDayId(date);
   const dayIndex = DAYS.findIndex((item) => item.id === course.dayOfWeek);
   const currentIndex = currentDay ? DAYS.findIndex((item) => item.id === currentDay) : 0;
-  const slot = PERIOD_TIMES[course.period] ?? PERIOD_TIMES[1];
   const result = new Date(date);
   let offset = dayIndex - currentIndex;
-  const startMinutes = minutes(slot.start);
+  const startMinutes = minutes(courseStartTime(course) || PERIOD_TIMES[1].start);
   const nowMinutes = date.getHours() * 60 + date.getMinutes();
   if (offset < 0 || (offset === 0 && nowMinutes > startMinutes)) offset += 7;
   result.setDate(date.getDate() + offset);
-  const [hour, minute] = slot.start.split(":").map(Number);
+  const [hour, minute] = (courseStartTime(course) || PERIOD_TIMES[1].start).split(":").map(Number);
   result.setHours(hour, minute, 0, 0);
   return result;
 };
@@ -71,8 +71,17 @@ export const formatRelativeTime = (target: Date, base = new Date()) => {
 
 export const getFreePeriods = (courses: Course[], date = new Date()) => {
   const todays = getTodaysCourses(courses, date);
-  const occupied = new Set(todays.map((course) => course.period));
+  const occupied = new Set(todays.flatMap((course) => Object.keys(PERIOD_TIMES).map(Number).filter((period) => courseOccupiesPeriod(course, period))));
   return Object.keys(PERIOD_TIMES)
     .map(Number)
     .filter((period) => !occupied.has(period));
+};
+
+export const getCourseEndDate = (course: Course, date = new Date()): Date => {
+  const start = getCourseStartDate(course, date);
+  const end = new Date(start);
+  const endTime = courseEndTime(course) || PERIOD_TIMES[coursePeriodEnd(course)]?.end || PERIOD_TIMES[course.period]?.end;
+  const [hour, minute] = endTime.split(":").map(Number);
+  end.setHours(hour, minute, 0, 0);
+  return end;
 };

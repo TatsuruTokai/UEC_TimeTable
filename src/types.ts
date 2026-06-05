@@ -28,6 +28,9 @@ export type Course = {
   instructor?: string;
   dayOfWeek: DayOfWeek;
   period: number;
+  periodEnd?: number;
+  startTime?: string;
+  endTime?: string;
   semester: Semester;
   credits: number;
   category: CourseCategory | string;
@@ -38,6 +41,8 @@ export type Course = {
   memo?: string;
   color?: string;
   status: CourseStatus;
+  sourceTimetableEntryId?: string;
+  sourceTimetablePdf?: string;
 };
 
 export type Classroom = {
@@ -206,4 +211,34 @@ export type CategoryAliases = {
 
 export type SubjectAliases = {
   aliases: Record<string, string>;
+};
+
+export type TimetableEntry = {
+  id: string;
+  academicYear: number;
+  grade: number;
+  semester: Extract<Semester, "first" | "second">;
+  termLabel: string;
+  dayOfWeek: DayOfWeek;
+  dayLabel: string;
+  period: number;
+  periodEnd?: number;
+  startTime?: string;
+  endTime?: string;
+  subject: string;
+  instructor?: string;
+  classroom?: string;
+  classLabel?: string;
+  sourcePdf: string;
+  sourceUrl: string;
+  note?: string;
+};
+
+export type TimetableEntryDataset = {
+  version: number;
+  academicYear: number;
+  sourceSite: string;
+  generatedFrom: string[];
+  extractionNote: string;
+  entries: TimetableEntry[];
 };
