@@ -11,6 +11,7 @@ import {
   courseOccupiesPeriod,
   coursePeriodSpan,
   courseTimeLabel,
+  findBestTimetableEntryForSubject,
   normalizeSubjectForTimetable,
   subjectOfferedInSemester,
   timetableEntryTimeLabel,
@@ -121,14 +122,7 @@ export const Timetable = ({
         .sort((a, b) => (dayOrder.get(a.dayOfWeek) ?? 0) - (dayOrder.get(b.dayOfWeek) ?? 0) || a.period - b.period || a.subject.localeCompare(b.subject, "ja")),
     [catalog.timetableEntries, targetGrade, targetSemester],
   );
-  const firstEntryBySubject = useMemo(() => {
-    const map = new Map<string, TimetableEntry>();
-    timetableEntries.forEach((entry) => {
-      const key = normalizeSubjectForTimetable(entry.subject);
-      if (!map.has(key)) map.set(key, entry);
-    });
-    return map;
-  }, [timetableEntries]);
+  const findEntryForSubject = useMemo(() => (subject: string) => findBestTimetableEntryForSubject(timetableEntries, subject), [timetableEntries]);
   const subjects = [...catalog.subjects, ...(state.customSubjects ?? [])]
     .filter(
       (subject) =>
@@ -166,7 +160,7 @@ export const Timetable = ({
     const push = (subject: string, reason: string, priority: number, credits?: number) => {
       const key = normalizeSubjectForTimetable(subject);
       if (earnedNames.has(key) || registeredNames.has(key)) return;
-      const entry = firstEntryBySubject.get(key);
+      const entry = findEntryForSubject(subject);
       if (!entry || rows.some((row) => normalizeSubjectForTimetable(row.subject) === key)) return;
       rows.push({ subject, reason, credits, entry, priority });
     };
@@ -180,7 +174,7 @@ export const Timetable = ({
     return rows
       .sort((a, b) => a.priority - b.priority || (a.credits ?? 0) - (b.credits ?? 0) || a.subject.localeCompare(b.subject, "ja"))
       .slice(0, 10);
-  }, [audit.candidateGroups, audit.failedOrRetake, audit.missingRequired, earnedNames, firstEntryBySubject, registeredNames]);
+  }, [audit.candidateGroups, audit.failedOrRetake, audit.missingRequired, earnedNames, findEntryForSubject, registeredNames]);
 
   return (
     <div className="grid gap-5 xl:grid-cols-[1fr_21rem]">
@@ -405,7 +399,7 @@ export const Timetable = ({
             {subjects.length ? (
               <div className="grid gap-2">
                 {subjects.map((subject) => {
-                  const entry = firstEntryBySubject.get(normalizeSubjectForTimetable(subject.subject));
+                  const entry = findEntryForSubject(subject.subject);
                   return (
                     <button key={`${subject.subject_code}-${subject.subject}`} onClick={() => onCreateFromSubject(subject, entry)} className="rounded-md border border-slate-200 p-3 text-left transition hover:border-uec-300 hover:bg-uec-50 dark:border-slate-800 dark:hover:border-uec-700 dark:hover:bg-uec-900/20">
                       <div className="flex items-start justify-between gap-2">

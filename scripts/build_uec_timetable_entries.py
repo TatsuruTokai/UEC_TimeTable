@@ -54,6 +54,129 @@ PDFS = [
     {"file": "inrenkei2.pdf", "grade": 4, "semester": "second", "label": "後学期", "columns": 15},
 ]
 
+PERIOD_TIMES = {
+    1: ("09:00", "10:30"),
+    2: ("10:40", "12:10"),
+    3: ("13:00", "14:30"),
+    4: ("14:40", "16:10"),
+    5: ("16:15", "17:45"),
+}
+
+
+def override(
+    subject: str,
+    grade: int,
+    semester: str,
+    term_label: str,
+    source_pdf: str,
+    day: str,
+    period: int,
+    period_end: int,
+    *,
+    class_label: str = "",
+    start_time: str | None = None,
+    end_time: str | None = None,
+    remove_subjects: list[str] | None = None,
+    note: str | None = None,
+) -> dict[str, object]:
+    return {
+        "subject": subject,
+        "grade": grade,
+        "semester": semester,
+        "termLabel": term_label,
+        "sourcePdf": source_pdf,
+        "dayOfWeek": day,
+        "period": period,
+        "periodEnd": period_end,
+        "classLabel": class_label,
+        "startTime": start_time,
+        "endTime": end_time,
+        "removeSubjects": remove_subjects or [],
+        "note": note or "PDF上の結合セル・分割セルを補正した時間割候補です。",
+    }
+
+
+IRREGULAR_GRID_OVERRIDES: list[dict[str, object]] = [
+    override(
+        "工学基礎数学および演習",
+        2,
+        "first",
+        "第3学期",
+        "A3.pdf",
+        "fri",
+        1,
+        2,
+        class_label="Ⅲ類 電子工学・光工学・化学生命工学",
+        start_time="09:45",
+        end_time="12:10",
+        remove_subjects=["工学基礎数学"],
+        note="PDF上で「工学基礎数学」と「および演習」が別行に分割されるため補正しています。",
+    ),
+    override("理工学基礎実験", 2, "second", "第4学期", "A4.pdf", "thu", 3, 4, class_label="Ⅲ類 電子工学・光工学・物理工学・化学生命工学"),
+]
+
+for subject_name in ["情報数理工学実験第一", "コンピュータサイエンス実験第一"]:
+    for day_id in ["mon", "wed"]:
+        IRREGULAR_GRID_OVERRIDES.append(override(subject_name, 3, "first", "第5学期", "A5.pdf", day_id, 3, 4))
+
+for subject_name in ["電子工学実験第一", "光工学実験第一", "物理工学実験第一", "化学生命工学実験第一"]:
+    IRREGULAR_GRID_OVERRIDES.append(override(subject_name, 3, "first", "第5学期", "A5.pdf", "wed", 2, 4))
+
+for subject_name in ["電子工学実験第一", "光工学実験第一", "物理工学実験第一"]:
+    IRREGULAR_GRID_OVERRIDES.append(override(subject_name, 3, "first", "第5学期", "A5.pdf", "thu", 2, 4))
+
+for subject_name in ["情報通信工学実験A", "電子情報学実験A"]:
+    IRREGULAR_GRID_OVERRIDES.append(override(subject_name, 3, "first", "第5学期", "A5.pdf", "fri", 2, 4, remove_subjects=[subject_name.replace("A", "Ａ")]))
+
+for subject_name in ["メカトロニクス基礎実験A", "知能機械工学基礎実験第一"]:
+    IRREGULAR_GRID_OVERRIDES.append(override(subject_name, 3, "first", "第5学期", "A5.pdf", "fri", 3, 4))
+
+for subject_name in ["情報数理工学実験第二A", "情報数理工学実験第二B", "コンピュータサイエンス実験第二A", "コンピュータサイエンス実験第二B"]:
+    for day_id in ["mon", "wed"]:
+        IRREGULAR_GRID_OVERRIDES.append(
+            override(
+                subject_name,
+                3,
+                "second",
+                "第6学期",
+                "A6.pdf",
+                day_id,
+                3,
+                4,
+                remove_subjects=["コンピュータサイエンス実験"],
+            )
+        )
+
+for subject_name, day_id in [
+    ("経営・社会情報学実験", "mon"),
+    ("デザイン思考・データサイエンス実験", "mon"),
+    ("物理工学実験第二", "mon"),
+    ("セキュリティ情報学実験", "tue"),
+    ("電子工学実験第二", "tue"),
+    ("光工学実験第二", "wed"),
+    ("化学生命工学実験第二", "wed"),
+    ("メディア情報学実験", "thu"),
+]:
+    IRREGULAR_GRID_OVERRIDES.append(override(subject_name, 3, "second", "第6学期", "A6.pdf", day_id, 2, 4, remove_subjects=["情報学実験"]))
+
+for subject_name in ["情報通信工学実験B1", "情報通信工学実験B2", "電子情報学実験B1", "電子情報学実験B2"]:
+    IRREGULAR_GRID_OVERRIDES.append(
+        override(
+            subject_name,
+            3,
+            "second",
+            "第6学期",
+            "A6.pdf",
+            "fri",
+            2,
+            4,
+            remove_subjects=["情報通信工学実験B1・B2", "電子情報学実験B1・B2", "情報通信工学実験Bl", "電子情報学実験Bl"],
+        )
+    )
+
+for subject_name in ["メカトロニクス基礎実験B", "知能機械工学基礎実験第二"]:
+    IRREGULAR_GRID_OVERRIDES.append(override(subject_name, 3, "second", "第6学期", "A6.pdf", "fri", 3, 4))
+
 
 @dataclass(frozen=True)
 class TextItem:
@@ -271,6 +394,59 @@ def make_id(entry: dict[str, object]) -> str:
     return hashlib.sha1(raw.encode("utf-8")).hexdigest()[:14]
 
 
+def periods_overlap(left: dict[str, object], right: dict[str, object]) -> bool:
+    left_start = int(left["period"])
+    left_end = int(left.get("periodEnd") or left_start)
+    right_start = int(right["period"])
+    right_end = int(right.get("periodEnd") or right_start)
+    return left_start <= right_end and right_start <= left_end
+
+
+def override_matches_entry(override_entry: dict[str, object], entry: dict[str, object]) -> bool:
+    if entry.get("grade") != override_entry.get("grade"):
+        return False
+    if entry.get("semester") != override_entry.get("semester"):
+        return False
+    if entry.get("sourcePdf") != override_entry.get("sourcePdf"):
+        return False
+    if entry.get("dayOfWeek") != override_entry.get("dayOfWeek"):
+        return False
+    subjects = {str(override_entry["subject"]), *(str(subject) for subject in override_entry.get("removeSubjects", []))}
+    if normalize_subject(str(entry.get("subject") or "")) not in {normalize_subject(subject) for subject in subjects}:
+        return False
+    return periods_overlap(entry, override_entry)
+
+
+def apply_irregular_grid_overrides(entries: list[dict[str, object]]) -> list[dict[str, object]]:
+    result = list(entries)
+    for item in IRREGULAR_GRID_OVERRIDES:
+        period = int(item["period"])
+        period_end = int(item["periodEnd"])
+        start_time, _ = PERIOD_TIMES[period]
+        _, end_time = PERIOD_TIMES[period_end]
+        entry: dict[str, object] = {
+            "academicYear": ACADEMIC_YEAR,
+            "grade": item["grade"],
+            "semester": item["semester"],
+            "termLabel": item["termLabel"],
+            "dayOfWeek": item["dayOfWeek"],
+            "dayLabel": DAY_LABELS[str(item["dayOfWeek"])],
+            "period": period,
+            "periodEnd": period_end,
+            "subject": item["subject"],
+            "classLabel": item.get("classLabel") or "",
+            "sourcePdf": item["sourcePdf"],
+            "sourceUrl": BASE_URL + str(item["sourcePdf"]),
+            "note": item["note"],
+        }
+        if item.get("startTime") or item.get("endTime"):
+            entry["startTime"] = item.get("startTime") or start_time
+            entry["endTime"] = item.get("endTime") or end_time
+        result = [existing for existing in result if not override_matches_entry(item, existing)]
+        result.append(entry)
+    return result
+
+
 def parse_grid_pdf(meta: dict[str, object], subject_names: dict[int, set[str]]) -> list[dict[str, object]]:
     path = ensure_pdf(str(meta["file"]))
     items, width, _height = extract_items(path)
@@ -389,13 +565,14 @@ def main() -> None:
     entries: list[dict[str, object]] = []
     for meta in PDFS:
         entries.extend(parse_pdf(meta, subject_names))
+    entries = apply_irregular_grid_overrides(entries)
     entries = merge_entries(entries)
     payload = {
         "version": 1,
         "academicYear": ACADEMIC_YEAR,
         "sourceSite": BASE_URL,
         "generatedFrom": sorted({str(item["sourcePdf"]) for item in entries}),
-        "extractionNote": "PDF座標から曜日・時限を推定し、学修要覧/時間割科目名と照合した補助データです。教員・教室の最終確認は公式時間割とシラバスを参照してください。",
+        "extractionNote": "PDF座標から曜日・時限を推定し、学修要覧/時間割科目名と照合した補助データです。PDF上の結合セル・分割セルで通常抽出が1時限化する科目は補正しています。教員・教室の最終確認は公式時間割とシラバスを参照してください。",
         "entries": entries,
     }
     for output in [PUBLIC_OUTPUT, EXTRACTED_OUTPUT]:

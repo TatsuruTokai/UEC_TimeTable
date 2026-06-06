@@ -6,6 +6,7 @@ const normalize = (value: string) =>
     .normalize("NFKC")
     .replace(/\s+/g, "")
     .replace(/（仮）/g, "")
+    .replace(/実験Bl/g, "実験B1")
     .toLowerCase();
 
 export const normalizeSubjectForTimetable = (value: string) => normalize(value.replace(/※注\d+/g, ""));
@@ -33,8 +34,35 @@ export const courseOccupiesPeriod = (course: Pick<Course, "period" | "periodEnd"
 export const timetableEntryTimeLabel = (entry: Pick<TimetableEntry, "period" | "periodEnd" | "startTime" | "endTime">) =>
   courseTimeLabel({ period: entry.period, periodEnd: entry.periodEnd, startTime: entry.startTime, endTime: entry.endTime });
 
-export const timetableEntryMatchesSubject = (entry: TimetableEntry, subject: string) =>
-  normalizeSubjectForTimetable(entry.subject) === normalizeSubjectForTimetable(subject);
+const timetableSubjectMatchScore = (entrySubject: string, subject: string) => {
+  const entryNorm = normalizeSubjectForTimetable(entrySubject);
+  const subjectNorm = normalizeSubjectForTimetable(subject);
+  if (!entryNorm || !subjectNorm) return 0;
+  if (entryNorm === subjectNorm) return 100;
+  if (subjectNorm === `${entryNorm}および演習`) return 80;
+  if (entryNorm === `${subjectNorm}・b2` || entryNorm === `${subjectNorm}･b2`) return 70;
+  if (entryNorm === subjectNorm.replace(/b2$/, "b1・b2") || entryNorm === subjectNorm.replace(/b2$/, "b1･b2")) return 70;
+  return 0;
+};
+
+export const timetableEntryMatchesSubject = (entry: TimetableEntry, subject: string) => timetableSubjectMatchScore(entry.subject, subject) > 0;
+
+export const findBestTimetableEntryForSubject = (
+  entries: TimetableEntry[],
+  subject: string,
+  grade?: number,
+  semester?: Extract<Semester, "first" | "second">,
+) =>
+  entries
+    .map((entry) => ({ entry, score: timetableSubjectMatchScore(entry.subject, subject) }))
+    .filter(({ entry, score }) => score > 0 && (!grade || entry.grade === grade) && (!semester || entry.semester === semester))
+    .sort(
+      (a, b) =>
+        b.score - a.score ||
+        a.entry.dayOfWeek.localeCompare(b.entry.dayOfWeek) ||
+        a.entry.period - b.entry.period ||
+        a.entry.sourcePdf.localeCompare(b.entry.sourcePdf),
+    )[0]?.entry;
 
 export const findTimetableEntriesForSubject = (
   entries: TimetableEntry[],
@@ -43,10 +71,16 @@ export const findTimetableEntriesForSubject = (
   semester?: Extract<Semester, "first" | "second">,
 ) =>
   entries
-    .filter((entry) => timetableEntryMatchesSubject(entry, subject))
-    .filter((entry) => !grade || entry.grade === grade)
-    .filter((entry) => !semester || entry.semester === semester)
-    .sort((a, b) => a.dayOfWeek.localeCompare(b.dayOfWeek) || a.period - b.period || a.sourcePdf.localeCompare(b.sourcePdf));
+    .map((entry) => ({ entry, score: timetableSubjectMatchScore(entry.subject, subject) }))
+    .filter(({ entry, score }) => score > 0 && (!grade || entry.grade === grade) && (!semester || entry.semester === semester))
+    .sort(
+      (a, b) =>
+        b.score - a.score ||
+        a.entry.dayOfWeek.localeCompare(b.entry.dayOfWeek) ||
+        a.entry.period - b.entry.period ||
+        a.entry.sourcePdf.localeCompare(b.entry.sourcePdf),
+    )
+    .map(({ entry }) => entry);
 
 export const subjectOfferedInSemester = (
   subject: CatalogSubject,
