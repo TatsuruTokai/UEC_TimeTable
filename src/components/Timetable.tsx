@@ -187,13 +187,28 @@ export const Timetable = ({
       <section className="grid gap-4">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <div>
-            <h2 className="text-xl font-semibold text-slate-950 dark:text-white">週間時間割</h2>
-            <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">月曜から土曜、1限から5限まで管理します。連続時限・変則開始時刻にも対応します。</p>
+            <h2 className="text-xl font-semibold text-slate-950 dark:text-white">履修登録シミュレーター</h2>
+            <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">次学期の履修案を組みながら、単位不足・必修未履修・時間割衝突を確認します。</p>
           </div>
           <Button variant="primary" onClick={() => onAddCourse()}>
             <Plus className="h-4 w-4" />
             授業追加
           </Button>
+        </div>
+
+        <div className="grid gap-2 sm:grid-cols-3">
+          <div className={`rounded-md p-3 text-sm ring-1 ${audit.shortageTotal ? "bg-rose-50 text-rose-900 ring-rose-100 dark:bg-rose-950/40 dark:text-rose-100 dark:ring-rose-900" : "bg-emerald-50 text-emerald-800 ring-emerald-100 dark:bg-emerald-950/40 dark:text-emerald-100 dark:ring-emerald-900"}`}>
+            <div className="font-semibold">単位不足</div>
+            <div className="mt-1">取得済み基準 {audit.shortageTotal}単位 / 履修中込み {Math.max(audit.totalRequired - audit.forecastTotal, 0)}単位</div>
+          </div>
+          <div className={`rounded-md p-3 text-sm ring-1 ${audit.missingRequired.length ? "bg-amber-50 text-amber-900 ring-amber-100 dark:bg-amber-950/40 dark:text-amber-100 dark:ring-amber-900" : "bg-emerald-50 text-emerald-800 ring-emerald-100 dark:bg-emerald-950/40 dark:text-emerald-100 dark:ring-emerald-900"}`}>
+            <div className="font-semibold">必修未履修</div>
+            <div className="mt-1">{audit.missingRequired.length ? `${audit.missingRequired.length}件` : "なし"}</div>
+          </div>
+          <div className={`rounded-md p-3 text-sm ring-1 ${collisions.length ? "bg-amber-50 text-amber-900 ring-amber-100 dark:bg-amber-950/40 dark:text-amber-100 dark:ring-amber-900" : "bg-emerald-50 text-emerald-800 ring-emerald-100 dark:bg-emerald-950/40 dark:text-emerald-100 dark:ring-emerald-900"}`}>
+            <div className="font-semibold">時間割衝突</div>
+            <div className="mt-1">{collisions.length ? `${collisions.length}枠` : "なし"}</div>
+          </div>
         </div>
 
         <section className="grid gap-3 rounded-lg border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-900">

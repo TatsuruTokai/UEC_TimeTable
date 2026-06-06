@@ -1,4 +1,4 @@
-import { AlertTriangle, CheckCircle2, FileUp, GraduationCap } from "lucide-react";
+import { CheckCircle2, FileUp, GraduationCap } from "lucide-react";
 import { useState } from "react";
 import type { CatalogData } from "../data/catalog";
 import type { GradeCsvImport, UserSettings } from "../types";
@@ -42,12 +42,21 @@ export const InitialSetup = ({
 
   const submit = () => {
     setShowValidation(true);
-    if (!academicSettingsComplete(draft) || !gradeImport) return;
+    if (!academicSettingsComplete(draft)) return;
     onComplete({
       ...draft,
       faculty: "情報理工学域",
       initialSetupCompleted: true,
-    }, gradeImport);
+    }, gradeImport ?? {
+      student: {
+        admissionYear: draft.admissionYear,
+        cluster: draft.cluster,
+        program: draft.program,
+        gradeYear: draft.gradeYear,
+      },
+      records: [],
+      importedAt: new Date().toISOString(),
+    });
   };
 
   return (
@@ -61,7 +70,7 @@ export const InitialSetup = ({
             <div>
               <h1 className="text-2xl font-semibold tracking-tight text-slate-950 dark:text-white">初期設定</h1>
               <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
-                まず単位修得状況のCSVを添付してください。CSVから取得済み単位を読み込み、必要単位リストに反映します。
+                単位修得状況CSVを取り込むと取得済み単位を自動集計できます。CSVがない場合も所属を選んで時間割管理を始められます。
               </p>
             </div>
           </div>
@@ -72,7 +81,7 @@ export const InitialSetup = ({
               <div>
                 <h2 className="font-semibold text-slate-950 dark:text-white">単位修得状況CSV</h2>
                 <p className="mt-1 text-sm text-slate-600 dark:text-slate-300">
-                  学務情報システムの「過去を含めた全成績」CSVを取り込みます。このCSVは初期設定で必須です。
+                  学務情報システムの「過去を含めた全成績」CSVを取り込みます。あとから設定画面でも取り込めます。
                 </p>
               </div>
             </div>
@@ -102,12 +111,6 @@ export const InitialSetup = ({
             {csvError ? (
               <div className="rounded-md bg-rose-50 p-3 text-sm font-semibold text-rose-700 ring-1 ring-rose-100 dark:bg-rose-950/40 dark:text-rose-200 dark:ring-rose-900">
                 {csvError}
-              </div>
-            ) : null}
-            {showValidation && !gradeImport ? (
-              <div className="flex items-start gap-2 rounded-md bg-rose-50 p-3 text-sm font-semibold text-rose-700 ring-1 ring-rose-100 dark:bg-rose-950/40 dark:text-rose-200 dark:ring-rose-900">
-                <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0" />
-                単位修得状況CSVの添付が必要です。
               </div>
             ) : null}
           </section>

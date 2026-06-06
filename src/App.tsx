@@ -1,13 +1,32 @@
 import { useEffect, useMemo, useState } from "react";
-import { CATEGORY_COLORS } from "./data/defaultData";
+import { CATEGORY_COLORS, defaultNotificationSettings } from "./data/defaultData";
 import { emptyCatalog, loadCatalogData, type CatalogData } from "./data/catalog";
 import { repository } from "./storage/repository";
-import type { AppState, Assignment, CatalogSubject, Course, CourseCategory, DayOfWeek, GradeCsvImport, ScreenId, TimetableEntry, UserSettings } from "./types";
+import type {
+  AppState,
+  Assignment,
+  CatalogSubject,
+  Classroom,
+  Course,
+  CourseCategory,
+  DayOfWeek,
+  FriendSchedule,
+  GradeCsvImport,
+  NotificationSettings,
+  ScreenId,
+  TimetableEntry,
+  UserSettings,
+} from "./types";
 import { evaluateCredits } from "./utils/credits";
+import { decodeSharePayload, payloadToFriendSchedule } from "./utils/sharing";
 import { normalizeSubjectForTimetable, timetableEntryTimeLabel } from "./utils/timetable";
+import { AnalysisView } from "./components/AnalysisView";
+import { CalendarView } from "./components/CalendarView";
+import { CampusView } from "./components/CampusView";
 import { CourseModal } from "./components/CourseModal";
 import { CreditsView } from "./components/CreditsView";
 import { Dashboard } from "./components/Dashboard";
+import { ShareView } from "./components/ShareView";
 import { SettingsView } from "./components/SettingsView";
 import { Shell } from "./components/Shell";
 import { Timetable } from "./components/Timetable";
@@ -60,9 +79,26 @@ export default function App() {
   const [catalogError, setCatalogError] = useState("");
   const [screen, setScreen] = useState<ScreenId>("dashboard");
   const [editor, setEditor] = useState<{ course: Course; isNew: boolean } | undefined>();
+  const updateState = (updater: (current: AppState) => AppState) => setState((current) => updater(current));
 
   useEffect(() => {
     loadCatalogData().then(setCatalog).catch((error: Error) => setCatalogError(error.message));
+  }, []);
+
+  useEffect(() => {
+    if (!window.location.hash.startsWith("#share=")) return;
+    const payload = decodeSharePayload(window.location.hash.replace(/^#share=/, ""));
+    if (!payload) return;
+    const schedule = payloadToFriendSchedule(payload);
+    setState((current) => {
+      const existing = current.friendSchedules ?? [];
+      return {
+        ...current,
+        friendSchedules: existing.some((item) => item.id === schedule.id) ? existing : [schedule, ...existing],
+      };
+    });
+    setScreen("share");
+    window.history.replaceState(null, "", `${window.location.pathname}${window.location.search}`);
   }, []);
 
   useEffect(() => {
@@ -75,7 +111,6 @@ export default function App() {
     root.classList.toggle("dark", state.settings.theme === "dark" || (state.settings.theme === "system" && prefersDark));
   }, [state.settings.theme]);
 
-  const updateState = (updater: (current: AppState) => AppState) => setState((current) => updater(current));
   const audit = useMemo(
     () => evaluateCredits(state, catalog.requirements, catalog.promotionRequirements, catalog.subjects, catalog.categoryAliases, catalog.subjectAliases),
     [catalog.categoryAliases, catalog.promotionRequirements, catalog.requirements, catalog.subjectAliases, catalog.subjects, state],
@@ -124,19 +159,63 @@ export default function App() {
     });
   };
 
+  const deleteAssignment = (assignmentId: string) => {
+    updateState((current) => ({ ...current, assignments: current.assignments.filter((item) => item.id !== assignmentId) }));
+  };
+
+  const saveClassroom = (classroom: Classroom) => {
+    updateState((current) => {
+      const exists = current.classrooms.some((item) => item.id === classroom.id);
+      return {
+        ...current,
+        classrooms: exists ? current.classrooms.map((item) => (item.id === classroom.id ? classroom : item)) : [...current.classrooms, classroom],
+      };
+    });
+  };
+
+  const deleteClassroom = (classroomId: string) => {
+    updateState((current) => ({
+      ...current,
+      classrooms: current.classrooms.filter((room) => room.id !== classroomId),
+      courses: current.courses.map((course) => (course.classroomId === classroomId ? { ...course, classroomId: "" } : course)),
+    }));
+  };
+
+  const importFriendSchedule = (schedule: FriendSchedule) => {
+    updateState((current) => {
+      const existing = current.friendSchedules ?? [];
+      return {
+        ...current,
+        friendSchedules: [schedule, ...existing.filter((item) => item.id !== schedule.id)],
+      };
+    });
+  };
+
+  const deleteFriendSchedule = (scheduleId: string) => {
+    updateState((current) => ({ ...current, friendSchedules: (current.friendSchedules ?? []).filter((item) => item.id !== scheduleId) }));
+  };
+
+  const updateNotificationSettings = (notificationSettings: NotificationSettings) => {
+    updateState((current) => ({ ...current, notificationSettings }));
+  };
+
   const toggleTheme = () => {
     const next = state.settings.theme === "dark" ? "light" : "dark";
     setState((current) => ({ ...current, settings: { ...current.settings, theme: next } }));
   };
 
   const importBackup = (backup: AppState) => {
+    const defaults = repository.load();
+    const notificationDefaults = defaults.notificationSettings ?? defaultNotificationSettings;
     setState({
-      ...repository.load(),
+      ...defaults,
       ...backup,
-      version: 1,
+      version: 2,
       courses: backup.courses ?? [],
       classrooms: backup.classrooms ?? [],
       assignments: backup.assignments ?? [],
+      friendSchedules: backup.friendSchedules ?? [],
+      notificationSettings: { ...notificationDefaults, ...(backup.notificationSettings ?? {}) },
     });
   };
 
@@ -186,6 +265,37 @@ export default function App() {
 
       {screen === "credits" ? <CreditsView audit={audit} /> : null}
 
+      {screen === "calendar" ? (
+        <CalendarView
+          state={state}
+          onSaveAssignment={saveAssignment}
+          onDeleteAssignment={deleteAssignment}
+          onUpdateNotificationSettings={updateNotificationSettings}
+        />
+      ) : null}
+
+      {screen === "share" ? (
+        <ShareView
+          state={state}
+          onImportFriendSchedule={importFriendSchedule}
+          onDeleteFriendSchedule={deleteFriendSchedule}
+        />
+      ) : null}
+
+      {screen === "campus" ? (
+        <CampusView
+          state={state}
+          onSaveClassroom={saveClassroom}
+          onDeleteClassroom={deleteClassroom}
+          onOpenCourse={(courseId) => {
+            const course = state.courses.find((item) => item.id === courseId);
+            if (course) setEditor({ course, isNew: false });
+          }}
+        />
+      ) : null}
+
+      {screen === "analysis" ? <AnalysisView state={state} audit={audit} /> : null}
+
       {screen === "settings" ? (
         <SettingsView
           state={state}
@@ -216,7 +326,7 @@ export default function App() {
           onSave={saveCourse}
           onDelete={deleteCourse}
           onSaveAssignment={saveAssignment}
-          onDeleteAssignment={(assignmentId) => updateState((current) => ({ ...current, assignments: current.assignments.filter((item) => item.id !== assignmentId) }))}
+          onDeleteAssignment={deleteAssignment}
         />
       ) : null}
     </Shell>

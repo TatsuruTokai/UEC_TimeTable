@@ -73,6 +73,9 @@ export const CourseModal = ({
     type: "report",
     url: "",
     memo: "",
+    reminderDays: 1,
+    reminderTime: "09:00",
+    notificationEnabled: true,
     completed: false,
   });
   const allSubjects = useMemo(() => [...catalog.subjects, ...(state.customSubjects ?? [])], [catalog.subjects, state.customSubjects]);
@@ -146,8 +149,9 @@ export const CourseModal = ({
       title: assignmentDraft.title.trim(),
       completed: false,
     });
-    setAssignmentDraft({ title: "", dueDate: "", type: "report", url: "", memo: "", completed: false });
+    setAssignmentDraft({ title: "", dueDate: "", type: "report", url: "", memo: "", reminderDays: 1, reminderTime: "09:00", notificationEnabled: true, completed: false });
   };
+  const setAssignmentDueDate = (value: string) => setAssignmentDraft((current) => ({ ...current, dueDate: value }));
 
   return (
     <ModalFrame
@@ -369,6 +373,7 @@ export const CourseModal = ({
                   <div className="font-semibold">{assignment.title}</div>
                   <div className="mt-1 text-sm text-slate-500">
                     {assignment.type} {assignment.dueDate ? `/ ${assignment.dueDate}` : ""}
+                    {assignment.notificationEnabled ? ` / 通知 ${assignment.reminderDays ?? 1}日前` : ""}
                   </div>
                 </div>
                 <Button variant="ghost" onClick={() => onDeleteAssignment(assignment.id)}>
@@ -377,15 +382,23 @@ export const CourseModal = ({
               </div>
             ))}
           </div>
-          <div className="grid gap-3 rounded-md bg-slate-50 p-3 dark:bg-slate-900/70 sm:grid-cols-[1fr_10rem_9rem_auto]">
+          <div className="grid gap-3 rounded-md bg-slate-50 p-3 dark:bg-slate-900/70 sm:grid-cols-[1fr_10rem_9rem_7rem_7rem_auto]">
             <input className={inputClass} value={assignmentDraft.title} onChange={(event) => setAssignmentDraft((current) => ({ ...current, title: event.target.value }))} placeholder="課題名・試験名" />
-            <input className={inputClass} type="date" value={assignmentDraft.dueDate} onChange={(event) => setAssignmentDraft((current) => ({ ...current, dueDate: event.target.value }))} />
+            <input
+              className={inputClass}
+              type="date"
+              value={assignmentDraft.dueDate}
+              onInput={(event) => setAssignmentDueDate(event.currentTarget.value)}
+              onChange={(event) => setAssignmentDueDate(event.currentTarget.value)}
+            />
             <select className={inputClass} value={assignmentDraft.type} onChange={(event) => setAssignmentDraft((current) => ({ ...current, type: event.target.value as Assignment["type"] }))}>
               <option value="report">レポート</option>
               <option value="exam">試験</option>
               <option value="quiz">小テスト</option>
               <option value="other">その他</option>
             </select>
+            <input className={inputClass} type="number" min="0" max="30" value={assignmentDraft.reminderDays ?? 1} onChange={(event) => setAssignmentDraft((current) => ({ ...current, reminderDays: Number(event.target.value) }))} aria-label="通知日数" />
+            <input className={inputClass} type="time" value={assignmentDraft.reminderTime ?? "09:00"} onChange={(event) => setAssignmentDraft((current) => ({ ...current, reminderTime: event.target.value }))} aria-label="通知時刻" />
             <Button onClick={addAssignment}>
               <Plus className="h-4 w-4" />
               追加

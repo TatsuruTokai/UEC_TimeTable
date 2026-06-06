@@ -1,0 +1,21 @@
+{
+  "name": "UEC TimeTable",
+  "short_name": "UEC時間割",
+  "description": "電気通信大学の時間割、単位、課題、成績分析をローカルで管理するPWA。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#0b4a8b",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity", "utilities"]
+}

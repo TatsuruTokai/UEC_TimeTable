@@ -224,6 +224,7 @@ export const SettingsView = ({
             <div>授業: {state.courses.length}件</div>
             <div>教室: {state.classrooms.length}件</div>
             <div>課題: {state.assignments.length}件</div>
+            <div>共有時間割: {state.friendSchedules?.length ?? 0}件</div>
             <div>成績CSV: {state.gradeImport ? `${state.gradeImport.records.length}行` : "未取込"}</div>
             <div>追加科目候補: {state.customSubjects?.length ?? 0}件</div>
           </div>

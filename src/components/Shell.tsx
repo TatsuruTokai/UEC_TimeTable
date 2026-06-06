@@ -1,12 +1,17 @@
-import { BarChart3, CalendarDays, GraduationCap, Settings, SunMoon } from "lucide-react";
+import { BarChart3, Bell, CalendarDays, GraduationCap, MapPinned, Settings, Share2, SunMoon, TrendingUp } from "lucide-react";
 import type { ReactNode } from "react";
 import type { ScreenId } from "../types";
 import { IconButton } from "./ui";
+import { PwaStatus } from "./PwaStatus";
 
 const navItems: { id: ScreenId; label: string; icon: typeof CalendarDays }[] = [
   { id: "dashboard", label: "ダッシュボード", icon: BarChart3 },
   { id: "timetable", label: "時間割", icon: CalendarDays },
   { id: "credits", label: "単位管理", icon: GraduationCap },
+  { id: "calendar", label: "課題・予定", icon: Bell },
+  { id: "share", label: "共有", icon: Share2 },
+  { id: "campus", label: "教室", icon: MapPinned },
+  { id: "analysis", label: "成績分析", icon: TrendingUp },
   { id: "settings", label: "設定", icon: Settings },
 ];
 
@@ -27,11 +32,12 @@ export const Shell = ({
         <div className="min-w-0">
           <div className="flex items-baseline gap-2">
             <h1 className="truncate text-lg font-semibold tracking-tight text-slate-950 dark:text-white">UEC TimeTable</h1>
-            <span className="hidden text-xs font-semibold text-uec-700 dark:text-uec-100 sm:inline">local MVP</span>
+            <span className="hidden text-xs font-semibold text-uec-700 dark:text-uec-100 sm:inline">PWA</span>
           </div>
           <p className="hidden text-xs text-slate-500 dark:text-slate-400 sm:block">時間割・教室・単位・課題をブラウザ内に保存</p>
         </div>
         <div className="flex items-center gap-1">
+          <PwaStatus />
           <IconButton title="テーマ切り替え" onClick={onToggleTheme}>
             <SunMoon className="h-5 w-5" />
           </IconButton>

@@ -1,4 +1,4 @@
-import { createDefaultState } from "../data/defaultData";
+import { createDefaultState, defaultNotificationSettings } from "../data/defaultData";
 import type { AppState } from "../types";
 
 export interface AppRepository {
@@ -19,13 +19,17 @@ export class LocalStorageRepository implements AppRepository {
     try {
       const defaults = createDefaultState();
       const parsed = JSON.parse(raw) as Partial<AppState>;
+      const parsedVersion = parsed.version ?? 1;
       return {
         ...defaults,
         ...parsed,
+        version: 2,
         settings: { ...defaults.settings, ...parsed.settings },
         courses: parsed.courses ?? defaults.courses,
-        classrooms: parsed.classrooms ?? defaults.classrooms,
+        classrooms: parsed.classrooms?.length || parsedVersion >= 2 ? parsed.classrooms ?? defaults.classrooms : defaults.classrooms,
         assignments: parsed.assignments ?? defaults.assignments,
+        friendSchedules: parsed.friendSchedules ?? defaults.friendSchedules,
+        notificationSettings: { ...defaultNotificationSettings, ...parsed.notificationSettings },
       } as AppState;
     } catch {
       return createDefaultState();

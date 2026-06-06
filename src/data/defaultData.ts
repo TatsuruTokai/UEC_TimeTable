@@ -1,4 +1,4 @@
-import type { AppState, Assignment, Classroom, Course, CourseCategory, DayOfWeek, Semester } from "../types";
+import type { AppState, Assignment, Classroom, Course, CourseCategory, DayOfWeek, NotificationSettings, Semester } from "../types";
 
 export const DAYS: { id: DayOfWeek; label: string; shortLabel: string }[] = [
   { id: "mon", label: "月曜日", shortLabel: "月" },
@@ -203,8 +203,15 @@ export const defaultAssignments: Assignment[] = [
   },
 ];
 
+export const defaultNotificationSettings: NotificationSettings = {
+  enabled: true,
+  defaultReminderDays: 1,
+  defaultReminderTime: "09:00",
+  courseReminderMinutes: 15,
+};
+
 export const createDefaultState = (): AppState => ({
-  version: 1,
+  version: 2,
   settings: {
     admissionYear: 0,
     faculty: "情報理工学域",
@@ -215,6 +222,8 @@ export const createDefaultState = (): AppState => ({
     initialSetupCompleted: false,
   },
   courses: [],
-  classrooms: [],
+  classrooms: defaultClassrooms,
   assignments: [],
+  friendSchedules: [],
+  notificationSettings: defaultNotificationSettings,
 });

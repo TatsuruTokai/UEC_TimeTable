@@ -8,6 +8,7 @@ const SUBTOTAL_PREFIX: Record<string, string> = {
   "subtotal.practice": "practice.",
   "subtotal.specialized": "specialized.",
 };
+const SHARED_CANDIDATE_PREFIXES = ["general.", "practice."];
 
 const courseCategoryToId: Record<string, string> = {
   必修: "specialized.course.required",
@@ -99,7 +100,7 @@ const normalizeCategoryPath = (path: string, aliases: CategoryAliases): string |
   const hasElectiveRequired = has("選択必修") || (key.includes("選") && key.includes("択") && key.includes("必") && key.includes("修"));
   const hasElective = has("選択") || (key.includes("選") && key.includes("択"));
   if (has("人文・社会科学科目")) return "general.human_social";
-  if (has("言語文化基礎科目") && (key.includes("II") || key.includes("Ⅱ") || key.includes("2"))) return "general.language.basic_ii";
+  if (has("言語文化基礎科目") && (key.includes("ii") || key.includes("2"))) return "general.language.basic_ii";
   if (has("言語文化基礎科目")) return "general.language.basic_i";
   if (has("言語文化応用科目")) return "general.language.applied_i";
   if (has("言語文化演習科目")) return "general.language.seminar";
@@ -127,13 +128,24 @@ const addCredits = (target: Record<string, number>, id: string | undefined, cred
   target[id] = (target[id] ?? 0) + credits;
 };
 
-const withTotals = (source: Record<string, number>): Record<string, number> => ({
-  ...source,
-  "subtotal.general": Object.entries(source).reduce((sum, [key, value]) => (key.startsWith("general.") ? sum + value : sum), 0),
-  "subtotal.practice": Object.entries(source).reduce((sum, [key, value]) => (key.startsWith("practice.") ? sum + value : sum), 0),
-  "subtotal.specialized": Object.entries(source).reduce((sum, [key, value]) => (key.startsWith("specialized.") ? sum + value : sum), 0),
-  "total.graduation": Object.values(source).reduce((sum, value) => sum + value, 0),
-});
+const withTotals = (source: Record<string, number>, requirements?: Record<string, { required: number }>): Record<string, number> => {
+  const result: Record<string, number> = {
+    ...source,
+    "subtotal.general": Object.entries(source).reduce((sum, [key, value]) => (key.startsWith("general.") ? sum + value : sum), 0),
+    "subtotal.practice": Object.entries(source).reduce((sum, [key, value]) => (key.startsWith("practice.") ? sum + value : sum), 0),
+    "subtotal.specialized": Object.entries(source).reduce((sum, [key, value]) => (key.startsWith("specialized.") ? sum + value : sum), 0),
+    "total.graduation": Object.values(source).reduce((sum, value) => sum + value, 0),
+  };
+  if (requirements?.["common.extra"]?.required) {
+    result["common.extra"] =
+      (result["common.extra"] ?? 0) +
+      Object.entries(source).reduce((sum, [categoryId, credits]) => {
+        if (SUBTOTAL_IDS.has(categoryId) || categoryId === "common.extra") return sum;
+        return sum + Math.max(credits - (requirements[categoryId]?.required ?? 0), 0);
+      }, 0);
+  }
+  return result;
+};
 
 const normalizeSubject = (name: string, aliases: SubjectAliases) => {
   const aliased = aliases.aliases[name] ?? name;
@@ -149,15 +161,54 @@ const subjectTermLabels = (subject: CatalogSubject) => {
   return Array.from(new Set(labels));
 };
 
+const isLanguageSeminarSubject = (subject: CatalogSubject) => {
+  const category = compact(subject.category_path);
+  if (!category.includes(compact("言語文化科目"))) return false;
+  const name = subject.subject.normalize("NFKC").replace(/[ \u3000#＃★☆]/g, "");
+  return /^(?:英語|独語|仏語|露語|中国語|韓国朝鮮語|日本語)(?:運用)?演習$/.test(name);
+};
+
+const normalizeSubjectCategory = (subject: CatalogSubject, aliases: CategoryAliases) => {
+  if (isLanguageSeminarSubject(subject)) return "general.language.seminar";
+  return normalizeCategoryPath(subject.category_path, aliases);
+};
+
 const subjectMinYear = (subject: CatalogSubject) => Math.min(...(subject.eligible_years?.length ? subject.eligible_years : [99]));
 
 const subjectMinSemester = (subject: CatalogSubject) => Math.min(...(subject.semester_hours?.length ? subject.semester_hours.map((item) => item.semester) : [99]));
 
+const isCreditEarningCategory = (categoryId: string) =>
+  categoryId.startsWith("general.") || categoryId.startsWith("practice.") || categoryId.startsWith("specialized.");
+
+const isSharedCandidateCategory = (categoryId: string) =>
+  categoryId === "common.extra" || SHARED_CANDIDATE_PREFIXES.some((prefix) => categoryId.startsWith(prefix));
+
 const matchesRequirementCategory = (subjectCategoryId: string | undefined, requirementCategoryId: string) => {
   if (!subjectCategoryId) return false;
+  if (requirementCategoryId === "common.extra") return isCreditEarningCategory(subjectCategoryId);
   const subtotalPrefix = SUBTOTAL_PREFIX[requirementCategoryId];
   if (subtotalPrefix) return subjectCategoryId.startsWith(subtotalPrefix);
   return subjectCategoryId === requirementCategoryId;
+};
+
+const isExactProgramSubject = (subject: CatalogSubject, state: AppState) =>
+  subject.cluster === state.settings.cluster && subject.course === state.settings.program;
+
+const subjectScopeRank = (subject: CatalogSubject, state: AppState) => {
+  if (isExactProgramSubject(subject, state)) return 0;
+  if (subject.cluster === state.settings.cluster) return 1;
+  return 2;
+};
+
+const uniqueSubjects = (subjects: CatalogSubject[], state: AppState, subjectAliases: SubjectAliases) => {
+  const deduped = new Map<string, CatalogSubject>();
+  [...subjects]
+    .sort((a, b) => subjectScopeRank(a, state) - subjectScopeRank(b, state) || a.subject.localeCompare(b.subject, "ja"))
+    .forEach((subject) => {
+      const key = normalizeSubject(subject.subject, subjectAliases);
+      if (!deduped.has(key)) deduped.set(key, subject);
+    });
+  return Array.from(deduped.values());
 };
 
 const creditsForCondition = (totals: Record<string, number>, condition: PromotionRequirementCondition) =>
@@ -179,7 +230,7 @@ const requiredSubjectsForCondition = (
         subject.course === state.settings.program &&
         subject.requirement_type === condition.requiredCourseType &&
         (!maxEligibleYear || !subject.eligible_years?.length || subject.eligible_years.some((year) => year <= maxEligibleYear)) &&
-        condition.categoryIds.some((categoryId) => matchesRequirementCategory(normalizeCategoryPath(subject.category_path, { aliases: {}, category_labels: {} }), categoryId)),
+        condition.categoryIds.some((categoryId) => matchesRequirementCategory(normalizeSubjectCategory(subject, { aliases: {}, category_labels: {} }), categoryId)),
     )
     .map((subject) => subject.subject);
 };
@@ -337,14 +388,19 @@ const buildCandidateGroups = (
   const eligibleSubjects = subjects.filter(
     (subject) =>
       subject.admission_year === state.settings.admissionYear &&
-      subject.cluster === state.settings.cluster &&
-      subject.course === state.settings.program &&
       !passedNames.has(normalizeSubject(subject.subject, subjectAliases)) &&
       !registeredNames.has(normalizeSubject(subject.subject, subjectAliases)) &&
       (!currentGrade || !subject.eligible_years?.length || subject.eligible_years.some((year) => year <= currentGrade)),
   );
+  const exactEligibleSubjects = eligibleSubjects.filter((subject) => isExactProgramSubject(subject, state));
 
-  const priority = (subject: CatalogSubject) => {
+  const priority = (subject: CatalogSubject, categoryId: string) => {
+    if (categoryId === "common.extra") {
+      if (subject.requirement_type === "選択") return 0;
+      if (subject.requirement_type === "選択必修") return 1;
+      if (subject.requirement_type === "必修") return 3;
+      return 2;
+    }
     if (subject.requirement_type === "必修") return 0;
     if (subject.requirement_type === "選択必修") return 1;
     if (subject.requirement_type === "選択") return 2;
@@ -354,10 +410,17 @@ const buildCandidateGroups = (
   return targetRows
     .map((row) => {
       const candidates = eligibleSubjects
-        .filter((subject) => matchesRequirementCategory(normalizeCategoryPath(subject.category_path, categoryAliases), row.categoryId))
+        .filter((subject) => isSharedCandidateCategory(row.categoryId) || isExactProgramSubject(subject, state))
+        .filter((subject) => matchesRequirementCategory(normalizeSubjectCategory(subject, categoryAliases), row.categoryId));
+      const scopedCandidates =
+        isSharedCandidateCategory(row.categoryId) && !candidates.some((subject) => isExactProgramSubject(subject, state))
+          ? candidates
+          : candidates.filter((subject) => exactEligibleSubjects.includes(subject));
+      const candidateSubjects = uniqueSubjects(scopedCandidates, state, subjectAliases)
         .sort(
           (a, b) =>
-            priority(a) - priority(b) ||
+            priority(a, row.categoryId) - priority(b, row.categoryId) ||
+            subjectScopeRank(a, state) - subjectScopeRank(b, state) ||
             subjectMinYear(a) - subjectMinYear(b) ||
             subjectMinSemester(a) - subjectMinSemester(b) ||
             a.subject.localeCompare(b.subject, "ja"),
@@ -378,7 +441,7 @@ const buildCandidateGroups = (
         categoryId: row.categoryId,
         label: row.label,
         shortage: row.shortage,
-        candidates,
+        candidates: candidateSubjects,
       };
     })
     .filter((group) => group.candidates.length > 0 || group.shortage > 0)
@@ -442,8 +505,8 @@ export const evaluateCredits = (
     if (course.status === "taking" || course.status === "planned" || course.status === "retake") addCredits(planned, id, course.credits);
   });
 
-  const earnedWithTotals = withTotals(earned);
-  const plannedWithTotals = withTotals(planned);
+  const earnedWithTotals = withTotals(earned, requirements);
+  const plannedWithTotals = withTotals(planned, requirements);
   const rows = Object.entries(requirements)
     .map(([categoryId, requirement]) => {
       const earnedCredits = earnedWithTotals[categoryId] ?? 0;

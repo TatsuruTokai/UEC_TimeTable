@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="UEC TimeTable">
+  <rect width="512" height="512" rx="96" fill="#0b4a8b"/>
+  <path fill="#ffffff" d="M132 116h248c22 0 40 18 40 40v220c0 22-18 40-40 40H132c-22 0-40-18-40-40V156c0-22 18-40 40-40Zm0 88h248v-48H132v48Zm0 52v120h248V256H132Z"/>
+  <path fill="#0d7edb" d="M164 284h48v42h-48v-42Zm68 0h48v42h-48v-42Zm68 0h48v42h-48v-42Zm-136 62h48v42h-48v-42Zm68 0h48v42h-48v-42Zm68 0h48v42h-48v-42Z"/>
+</svg>

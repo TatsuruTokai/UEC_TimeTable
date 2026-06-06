@@ -26,9 +26,53 @@ export const Dashboard = ({
   const nextClassroom = next?.course.classroomId ? classroomName(state.classrooms, next.course.classroomId) : undefined;
   const current = todayCourses.find((course) => course.period <= (next?.course.period ?? 0));
   const moving = current && next?.course && current.buildingName && next.course.buildingName && current.buildingName !== next.course.buildingName;
+  const riskProfiles = audit.requirementProfiles
+    .filter((profile) => profile.shortageCredits > 0 || profile.missingRequiredSubjects.length > 0 || profile.unsatisfiedGroups.length > 0)
+    .sort((a, b) => b.shortageCredits - a.shortageCredits);
+  const hasRisk = riskProfiles.length > 0 || audit.missingRequired.length > 0;
 
   return (
     <div className="grid gap-5">
+      <section
+        className={`grid gap-4 rounded-lg p-4 ring-1 sm:p-5 ${
+          hasRisk
+            ? "bg-rose-50 text-rose-950 ring-rose-200 dark:bg-rose-950/40 dark:text-rose-100 dark:ring-rose-900"
+            : "bg-emerald-50 text-emerald-950 ring-emerald-200 dark:bg-emerald-950/40 dark:text-emerald-100 dark:ring-emerald-900"
+        }`}
+      >
+        <div className="flex items-start gap-3">
+          {hasRisk ? <AlertTriangle className="mt-0.5 h-6 w-6 shrink-0" /> : <CheckCircle2 className="mt-0.5 h-6 w-6 shrink-0" />}
+          <div>
+            <h2 className="text-xl font-semibold">{hasRisk ? "進級・卒業リスクがあります" : "進級・卒業リスクは目立っていません"}</h2>
+            <p className="mt-1 text-sm opacity-85">
+              {hasRisk
+                ? "単位不足、未取得必修、未充足区分を優先して確認してください。"
+                : "現在の取得済み・履修予定では大きな不足は見つかっていません。"}
+            </p>
+          </div>
+        </div>
+        {hasRisk ? (
+          <div className="grid gap-3 md:grid-cols-3">
+            {riskProfiles.slice(0, 3).map((profile) => (
+              <div key={profile.id} className="rounded-md bg-white/70 p-3 text-sm ring-1 ring-rose-100 dark:bg-slate-950/40 dark:ring-rose-900/60">
+                <div className="font-semibold">{profile.label}</div>
+                <div className="mt-1">
+                  取得済み基準で {Math.round(profile.progress)}% / 不足 {profile.shortageCredits.toFixed(profile.shortageCredits % 1 ? 1 : 0)}単位
+                </div>
+                <div className="mt-1 opacity-85">履修中込み不足 {profile.forecastShortageCredits.toFixed(profile.forecastShortageCredits % 1 ? 1 : 0)}単位</div>
+              </div>
+            ))}
+            {audit.missingRequired.length ? (
+              <div className="rounded-md bg-white/70 p-3 text-sm ring-1 ring-rose-100 dark:bg-slate-950/40 dark:ring-rose-900/60">
+                <div className="font-semibold">未取得必修</div>
+                <div className="mt-1">{audit.missingRequired.length}件</div>
+                <div className="mt-1 line-clamp-2 opacity-85">{audit.missingRequired.slice(0, 3).map((subject) => subject.subject).join(" / ")}</div>
+              </div>
+            ) : null}
+          </div>
+        ) : null}
+      </section>
+
       <section className="grid gap-4 rounded-lg border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-900 sm:p-5">
         <div className="flex flex-wrap items-start justify-between gap-3">
           <div>

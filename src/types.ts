@@ -20,7 +20,7 @@ export type AssignmentType = "report" | "exam" | "quiz" | "other";
 
 export type ThemeMode = "light" | "dark" | "system";
 
-export type ScreenId = "dashboard" | "timetable" | "credits" | "settings";
+export type ScreenId = "dashboard" | "timetable" | "credits" | "calendar" | "share" | "campus" | "analysis" | "settings";
 
 export type Course = {
   id: string;
@@ -52,6 +52,7 @@ export type Classroom = {
   buildingNumber?: string;
   area: CampusArea;
   floor?: string;
+  mapUrl?: string;
   latitude?: number;
   longitude?: number;
   memo?: string;
@@ -80,6 +81,9 @@ export type Assignment = {
   type: AssignmentType;
   url?: string;
   memo?: string;
+  reminderDays?: number;
+  reminderTime?: string;
+  notificationEnabled?: boolean;
   completed: boolean;
 };
 
@@ -91,6 +95,32 @@ export type UserSettings = {
   gradeYear: string;
   theme: ThemeMode;
   initialSetupCompleted?: boolean;
+};
+
+export type NotificationSettings = {
+  enabled: boolean;
+  defaultReminderDays: number;
+  defaultReminderTime: string;
+  courseReminderMinutes: number;
+};
+
+export type SharedCourse = {
+  id: string;
+  name: string;
+  dayOfWeek: DayOfWeek;
+  period: number;
+  periodEnd?: number;
+  semester: Semester;
+  buildingName?: string;
+  classroomName?: string;
+  status: CourseStatus;
+};
+
+export type FriendSchedule = {
+  id: string;
+  ownerName: string;
+  exportedAt: string;
+  courses: SharedCourse[];
 };
 
 export type GradeRecord = {
@@ -131,6 +161,8 @@ export type AppState = {
   courses: Course[];
   classrooms: Classroom[];
   assignments: Assignment[];
+  friendSchedules?: FriendSchedule[];
+  notificationSettings?: NotificationSettings;
   customSubjects?: CatalogSubject[];
   gradeImport?: GradeCsvImport;
   manualRequirement?: CreditRequirement;
