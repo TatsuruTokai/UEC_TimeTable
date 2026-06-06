@@ -35,6 +35,7 @@ import { InitialSetup } from "./components/InitialSetup";
 const createId = (prefix: string) => `${prefix}-${crypto.randomUUID ? crypto.randomUUID() : `${Date.now()}-${Math.random()}`}`;
 
 const inferCategory = (subject: CatalogSubject): CourseCategory => {
+  if (subject.category_path.replace(/\s+/g, "").includes("技術英語")) return "技術英語科目";
   if (subject.requirement_type === "必修") return "必修";
   if (subject.requirement_type === "選択必修") return "選択必修";
   if (subject.category_path.includes("言語文化")) return "英語・第二外国語";

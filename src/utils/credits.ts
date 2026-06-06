@@ -19,6 +19,7 @@ const courseCategoryToId: Record<string, string> = {
   専門科目: "specialized.course.elective",
   "実験・演習": "specialized.course.required",
   "英語・第二外国語": "general.language.basic_i",
+  技術英語科目: "practice.technical_english",
 };
 
 export type CreditAuditRow = {
@@ -44,6 +45,8 @@ export type RequirementProfile = {
   forecastShortageCredits: number;
   progress: number;
   forecastProgress: number;
+  satisfied: boolean;
+  forecastSatisfied: boolean;
   detailRows: CreditAuditRow[];
   missingRequiredSubjects: string[];
   unsatisfiedGroups: string[];
@@ -246,10 +249,13 @@ const buildPromotionProfile = (
   subjects: CatalogSubject[],
   state: AppState,
   passedNames: Set<string>,
+  plannedNames: Set<string>,
   subjectAliases: SubjectAliases,
 ): RequirementProfile => {
   if (!requirement) {
     const fallbackRequired = id === "third-year" ? 60 : 101;
+    const shortageCredits = Math.max(fallbackRequired - earnedTotal, 0);
+    const forecastShortageCredits = Math.max(fallbackRequired - forecastTotal, 0);
     return {
       id,
       type: id === "third-year" ? "third-year-promotion" : "fourth-year-promotion",
@@ -258,10 +264,12 @@ const buildPromotionProfile = (
       earnedCredits: earnedTotal,
       plannedCredits: takingTotal,
       forecastCredits: forecastTotal,
-      shortageCredits: Math.max(fallbackRequired - earnedTotal, 0),
-      forecastShortageCredits: Math.max(fallbackRequired - forecastTotal, 0),
+      shortageCredits,
+      forecastShortageCredits,
       progress: Math.min(100, (earnedTotal / fallbackRequired) * 100),
       forecastProgress: Math.min(100, (forecastTotal / fallbackRequired) * 100),
+      satisfied: false,
+      forecastSatisfied: false,
       detailRows: [],
       missingRequiredSubjects: [],
       unsatisfiedGroups: ["この入学年度・類・プログラムの構造化進級要件が見つかりません。"],
@@ -284,13 +292,14 @@ const buildPromotionProfile = (
       sourcePage: requirement.source.pages[0],
     };
   });
-  const missingRequiredSubjects = Array.from(
-    new Set(
-      requirement.categoryRequirements
-        .flatMap((condition) => requiredSubjectsForCondition(condition, subjects, state))
-        .filter((subject) => !passedNames.has(normalizeSubject(subject, subjectAliases))),
-    ),
+  const requiredSubjectNames = Array.from(
+    new Set(requirement.categoryRequirements.flatMap((condition) => requiredSubjectsForCondition(condition, subjects, state))),
   );
+  const missingRequiredSubjects = requiredSubjectNames.filter((subject) => !passedNames.has(normalizeSubject(subject, subjectAliases)));
+  const forecastMissingRequiredSubjects = requiredSubjectNames.filter((subject) => {
+    const normalized = normalizeSubject(subject, subjectAliases);
+    return !passedNames.has(normalized) && !plannedNames.has(normalized);
+  });
   const unsatisfiedGroups = requirement.categoryRequirements
     .filter((condition) => creditsForCondition(earnedWithTotals, condition) < condition.requiredCredits)
     .map((condition) => `${condition.label}: ${fmtShortage(condition.requiredCredits - creditsForCondition(earnedWithTotals, condition))}`);
@@ -298,6 +307,24 @@ const buildPromotionProfile = (
     ...requirement.notes,
     ...requirement.categoryRequirements.flatMap((condition) => (condition.note ? [`${condition.label}: ${condition.note}`] : [])),
   ];
+  const totalShortage = Math.max(requirement.totalRequiredCredits - earnedTotal, 0);
+  const forecastTotalShortage = Math.max(requirement.totalRequiredCredits - forecastTotal, 0);
+  const categoryShortage = detailRows.reduce((max, row) => Math.max(max, row.shortage), 0);
+  const forecastCategoryShortage = requirement.categoryRequirements.reduce((max, condition) => {
+    const earned = creditsForCondition(earnedWithTotals, condition);
+    const planned = creditsForCondition(plannedWithTotals, condition);
+    return Math.max(max, Math.max(condition.requiredCredits - earned - planned, 0));
+  }, 0);
+  const shortageCredits = Math.max(totalShortage, categoryShortage);
+  const forecastShortageCredits = Math.max(forecastTotalShortage, forecastCategoryShortage);
+  const satisfied = shortageCredits === 0 && missingRequiredSubjects.length === 0;
+  const forecastSatisfied = forecastShortageCredits === 0 && forecastMissingRequiredSubjects.length === 0;
+  const progressFromShortage = requirement.totalRequiredCredits
+    ? Math.max(0, Math.min(100, ((requirement.totalRequiredCredits - shortageCredits) / requirement.totalRequiredCredits) * 100))
+    : 0;
+  const forecastProgressFromShortage = requirement.totalRequiredCredits
+    ? Math.max(0, Math.min(100, ((requirement.totalRequiredCredits - forecastShortageCredits) / requirement.totalRequiredCredits) * 100))
+    : 0;
   return {
     id,
     type: requirement.type,
@@ -306,10 +333,12 @@ const buildPromotionProfile = (
     earnedCredits: earnedTotal,
     plannedCredits: takingTotal,
     forecastCredits: forecastTotal,
-    shortageCredits: Math.max(requirement.totalRequiredCredits - earnedTotal, 0),
-    forecastShortageCredits: Math.max(requirement.totalRequiredCredits - forecastTotal, 0),
-    progress: requirement.totalRequiredCredits ? Math.min(100, (earnedTotal / requirement.totalRequiredCredits) * 100) : 0,
-    forecastProgress: requirement.totalRequiredCredits ? Math.min(100, (forecastTotal / requirement.totalRequiredCredits) * 100) : 0,
+    shortageCredits,
+    forecastShortageCredits,
+    progress: satisfied ? 100 : Math.min(99, progressFromShortage),
+    forecastProgress: forecastSatisfied ? 100 : Math.min(99, forecastProgressFromShortage),
+    satisfied,
+    forecastSatisfied,
     detailRows,
     missingRequiredSubjects,
     unsatisfiedGroups,
@@ -334,13 +363,28 @@ const buildRequirementProfiles = (
   subjects: CatalogSubject[],
   state: AppState,
   passedNames: Set<string>,
+  plannedNames: Set<string>,
+  graduationMissingRequiredSubjects: string[],
   subjectAliases: SubjectAliases,
 ): RequirementProfile[] => {
   const third = promotions.find((row) => row.type === "third-year-promotion");
   const fourth = promotions.find((row) => row.type === "fourth-year-promotion");
+  const totalShortage = Math.max(totalRequired - earnedTotal, 0);
+  const forecastTotalShortage = Math.max(totalRequired - forecastTotal, 0);
+  const rowShortage = rows.reduce((max, row) => Math.max(max, row.shortage), 0);
+  const forecastRowShortage = rows.reduce((max, row) => Math.max(max, Math.max(row.required - row.earned - row.planned, 0)), 0);
+  const shortageCredits = Math.max(totalShortage, rowShortage);
+  const forecastShortageCredits = Math.max(forecastTotalShortage, forecastRowShortage);
+  const forecastGraduationMissingRequiredSubjects = graduationMissingRequiredSubjects.filter(
+    (subject) => !plannedNames.has(normalizeSubject(subject, subjectAliases)),
+  );
+  const satisfied = shortageCredits === 0 && graduationMissingRequiredSubjects.length === 0;
+  const forecastSatisfied = forecastShortageCredits === 0 && forecastGraduationMissingRequiredSubjects.length === 0;
+  const progressFromShortage = totalRequired ? Math.max(0, Math.min(100, ((totalRequired - shortageCredits) / totalRequired) * 100)) : 0;
+  const forecastProgressFromShortage = totalRequired ? Math.max(0, Math.min(100, ((totalRequired - forecastShortageCredits) / totalRequired) * 100)) : 0;
   return [
-    buildPromotionProfile("third-year", third, earnedWithTotals, plannedWithTotals, earnedTotal, takingTotal, forecastTotal, subjects, state, passedNames, subjectAliases),
-    buildPromotionProfile("fourth-year", fourth, earnedWithTotals, plannedWithTotals, earnedTotal, takingTotal, forecastTotal, subjects, state, passedNames, subjectAliases),
+    buildPromotionProfile("third-year", third, earnedWithTotals, plannedWithTotals, earnedTotal, takingTotal, forecastTotal, subjects, state, passedNames, plannedNames, subjectAliases),
+    buildPromotionProfile("fourth-year", fourth, earnedWithTotals, plannedWithTotals, earnedTotal, takingTotal, forecastTotal, subjects, state, passedNames, plannedNames, subjectAliases),
     {
       id: "graduation",
       type: "graduation",
@@ -349,12 +393,14 @@ const buildRequirementProfiles = (
       earnedCredits: earnedTotal,
       plannedCredits: takingTotal,
       forecastCredits: forecastTotal,
-      shortageCredits: Math.max(totalRequired - earnedTotal, 0),
-      forecastShortageCredits: Math.max(totalRequired - forecastTotal, 0),
-      progress: totalRequired ? Math.min(100, (earnedTotal / totalRequired) * 100) : 0,
-      forecastProgress: totalRequired ? Math.min(100, (forecastTotal / totalRequired) * 100) : 0,
+      shortageCredits,
+      forecastShortageCredits,
+      progress: satisfied ? 100 : Math.min(99, progressFromShortage),
+      forecastProgress: forecastSatisfied ? 100 : Math.min(99, forecastProgressFromShortage),
+      satisfied,
+      forecastSatisfied,
       detailRows: rows,
-      missingRequiredSubjects: [],
+      missingRequiredSubjects: graduationMissingRequiredSubjects,
       unsatisfiedGroups: rows.filter((row) => row.shortage > 0).map((row) => `${row.label}: ${fmtShortage(row.shortage)}`),
       confidence: "high",
       notes: [
@@ -526,6 +572,11 @@ export const evaluateCredits = (
 
   const passedNames = new Set(gradeRecords.filter((record) => record.passed).map((record) => normalizeSubject(record.subject, subjectAliases)));
   state.courses.filter((course) => course.status === "earned").forEach((course) => passedNames.add(normalizeSubject(course.name, subjectAliases)));
+  const plannedNames = new Set(
+    state.courses
+      .filter((course) => course.status === "taking" || course.status === "planned" || course.status === "retake")
+      .map((course) => normalizeSubject(course.name, subjectAliases)),
+  );
   const missingRequired = subjects.filter(
     (subject) =>
       subject.admission_year === state.settings.admissionYear &&
@@ -567,9 +618,14 @@ export const evaluateCredits = (
     subjects,
     state,
     passedNames,
+    plannedNames,
+    missingRequired.map((subject) => subject.subject),
     subjectAliases,
   );
   const candidateGroups = buildCandidateGroups(state, rows, subjects, categoryAliases, subjectAliases, passedNames);
+  const thirdYearProgress = requirementProfiles.find((profile) => profile.id === "third-year")?.progress ?? 0;
+  const fourthYearProgress = requirementProfiles.find((profile) => profile.id === "fourth-year")?.progress ?? 0;
+  const graduationProfileProgress = requirementProfiles.find((profile) => profile.id === "graduation")?.progress ?? graduationProgress;
   return {
     totalRequired,
     earnedTotal,
@@ -581,9 +637,9 @@ export const evaluateCredits = (
     failedOrRetake,
     requirementProfiles,
     candidateGroups,
-    thirdYearProgress: Math.min(100, totalRequired ? (earnedTotal / Math.max(totalRequired * 0.55, 1)) * 100 : 0),
-    fourthYearProgress: Math.min(100, totalRequired ? (earnedTotal / Math.max(totalRequired * 0.82, 1)) * 100 : 0),
-    graduationProgress,
+    thirdYearProgress,
+    fourthYearProgress,
+    graduationProgress: graduationProfileProgress,
     unmatchedCategories: Array.from(new Set(unmatchedCategories)),
   };
 };

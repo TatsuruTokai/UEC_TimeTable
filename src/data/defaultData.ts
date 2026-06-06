@@ -28,6 +28,7 @@ export const COURSE_CATEGORIES: CourseCategory[] = [
   "専門科目",
   "実験・演習",
   "英語・第二外国語",
+  "技術英語科目",
 ];
 
 export const SEMESTERS: { id: Semester; label: string }[] = [
@@ -54,6 +55,7 @@ export const CATEGORY_COLORS: Record<string, string> = {
   専門科目: "#b45309",
   "実験・演習": "#be123c",
   "英語・第二外国語": "#7c3aed",
+  技術英語科目: "#0f766e",
 };
 
 export const defaultClassrooms: Classroom[] = [

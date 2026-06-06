@@ -27,7 +27,7 @@ export const Dashboard = ({
   const current = todayCourses.find((course) => course.period <= (next?.course.period ?? 0));
   const moving = current && next?.course && current.buildingName && next.course.buildingName && current.buildingName !== next.course.buildingName;
   const riskProfiles = audit.requirementProfiles
-    .filter((profile) => profile.shortageCredits > 0 || profile.missingRequiredSubjects.length > 0 || profile.unsatisfiedGroups.length > 0)
+    .filter((profile) => !profile.satisfied)
     .sort((a, b) => b.shortageCredits - a.shortageCredits);
   const hasRisk = riskProfiles.length > 0 || audit.missingRequired.length > 0;
 
@@ -57,9 +57,15 @@ export const Dashboard = ({
               <div key={profile.id} className="rounded-md bg-white/70 p-3 text-sm ring-1 ring-rose-100 dark:bg-slate-950/40 dark:ring-rose-900/60">
                 <div className="font-semibold">{profile.label}</div>
                 <div className="mt-1">
-                  取得済み基準で {Math.round(profile.progress)}% / 不足 {profile.shortageCredits.toFixed(profile.shortageCredits % 1 ? 1 : 0)}単位
+                  取得済み基準で {Math.round(profile.progress)}% / {profile.shortageCredits ? `不足 ${profile.shortageCredits.toFixed(profile.shortageCredits % 1 ? 1 : 0)}単位` : "指定条件未達"}
                 </div>
-                <div className="mt-1 opacity-85">履修中込み不足 {profile.forecastShortageCredits.toFixed(profile.forecastShortageCredits % 1 ? 1 : 0)}単位</div>
+                <div className="mt-1 opacity-85">
+                  {profile.forecastSatisfied
+                    ? "履修中込みで達成見込み"
+                    : profile.forecastShortageCredits
+                      ? `履修中込み不足 ${profile.forecastShortageCredits.toFixed(profile.forecastShortageCredits % 1 ? 1 : 0)}単位`
+                      : "履修中込みでも指定条件未達"}
+                </div>
               </div>
             ))}
             {audit.missingRequired.length ? (

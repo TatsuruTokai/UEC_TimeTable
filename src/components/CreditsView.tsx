@@ -48,7 +48,15 @@ const CategoryProgressTable = ({ rows }: { rows: CreditAuditRow[] }) => (
   </div>
 );
 
-const RequirementDetail = ({ profile }: { profile: RequirementProfile }) => (
+const RequirementDetail = ({ profile }: { profile: RequirementProfile }) => {
+  const shortageValue = profile.shortageCredits ? `${fmt(profile.shortageCredits)}単位` : profile.satisfied ? "0単位" : "未達条件あり";
+  const forecastShortageText = profile.forecastSatisfied
+    ? "履修中込みで達成見込み"
+    : profile.forecastShortageCredits
+      ? `履修中込み不足 ${fmt(profile.forecastShortageCredits)}単位`
+      : "履修中込みでも未達条件あり";
+
+  return (
   <section className="grid gap-4 rounded-lg border border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-slate-900 sm:p-5">
     <div className="flex flex-wrap items-start justify-between gap-3">
       <div>
@@ -58,23 +66,29 @@ const RequirementDetail = ({ profile }: { profile: RequirementProfile }) => (
         </div>
         <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">{profileHelp[profile.id]}</p>
       </div>
-      <div className="rounded-md bg-slate-100 px-2.5 py-1 text-sm font-semibold text-slate-700 dark:bg-slate-800 dark:text-slate-200">
-        取得済み {Math.round(profile.progress)}%
+      <div
+        className={`rounded-md px-2.5 py-1 text-sm font-semibold ${
+          profile.satisfied
+            ? "bg-emerald-50 text-emerald-700 ring-1 ring-emerald-200 dark:bg-emerald-950/40 dark:text-emerald-200 dark:ring-emerald-900"
+            : "bg-rose-50 text-rose-700 ring-1 ring-rose-200 dark:bg-rose-950/40 dark:text-rose-200 dark:ring-rose-900"
+        }`}
+      >
+        {profile.satisfied ? "達成済み" : "未達"} {Math.round(profile.progress)}%
       </div>
     </div>
 
     <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
       <Metric label="必要単位" value={`${fmt(profile.requiredCredits)}単位`} />
       <Metric label="取得済み" value={`${fmt(profile.earnedCredits)}単位`} />
-      <Metric label="不足" value={`${fmt(profile.shortageCredits)}単位`} sub={`履修中込み不足 ${fmt(profile.forecastShortageCredits)}単位`} />
+      <Metric label="不足" value={shortageValue} sub={forecastShortageText} />
       <Metric label="履修中込み" value={`${fmt(profile.forecastCredits)}単位`} sub={`見込み進捗 ${Math.round(profile.forecastProgress)}%`} />
     </div>
 
     <div className="grid gap-2">
-      <ProgressBar value={profile.progress} tone={profile.shortageCredits ? "blue" : "green"} />
+      <ProgressBar value={profile.progress} tone={profile.satisfied ? "green" : "blue"} />
       <div className="flex justify-between text-xs text-slate-500 dark:text-slate-400">
         <span>{fmt(profile.earnedCredits)} / {fmt(profile.requiredCredits)}単位</span>
-        <span>{profile.shortageCredits ? `残り ${fmt(profile.shortageCredits)}単位` : "条件を満たしています"}</span>
+        <span>{profile.satisfied ? "条件を満たしています" : profile.shortageCredits ? `残り ${fmt(profile.shortageCredits)}単位` : "必修・指定条件が未達です"}</span>
       </div>
     </div>
 
@@ -113,7 +127,8 @@ const RequirementDetail = ({ profile }: { profile: RequirementProfile }) => (
       ))}
     </div>
   </section>
-);
+  );
+};
 
 const CandidateGroup = ({ group }: { group: CreditCandidateGroup }) => (
   <section className="grid gap-3 rounded-md border border-slate-200 p-3 dark:border-slate-800">

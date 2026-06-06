@@ -12,7 +12,8 @@ export type CourseCategory =
   | "教養科目"
   | "専門科目"
   | "実験・演習"
-  | "英語・第二外国語";
+  | "英語・第二外国語"
+  | "技術英語科目";
 
 export type CampusArea = "east" | "west" | "other";
 

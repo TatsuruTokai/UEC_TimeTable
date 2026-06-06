@@ -4,6 +4,7 @@ import type { CatalogSubject, Course, Semester, TimetableEntry } from "../types"
 const normalize = (value: string) =>
   value
     .normalize("NFKC")
+    .replace(/[‐‑‒–—―−－]/g, "-")
     .replace(/\s+/g, "")
     .replace(/（仮）/g, "")
     .replace(/実験Bl/g, "実験B1")
@@ -39,6 +40,7 @@ const timetableSubjectMatchScore = (entrySubject: string, subject: string) => {
   const subjectNorm = normalizeSubjectForTimetable(subject);
   if (!entryNorm || !subjectNorm) return 0;
   if (entryNorm === subjectNorm) return 100;
+  if (entryNorm.startsWith(`${subjectNorm}(`)) return 90;
   if (subjectNorm === `${entryNorm}および演習`) return 80;
   if (entryNorm === `${subjectNorm}・b2` || entryNorm === `${subjectNorm}･b2`) return 70;
   if (entryNorm === subjectNorm.replace(/b2$/, "b1・b2") || entryNorm === subjectNorm.replace(/b2$/, "b1･b2")) return 70;

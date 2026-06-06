@@ -103,6 +103,7 @@ const subjectAliases: Record<string, string[]> = {
 export const compact = (text: string) =>
   (text || "")
     .normalize("NFKC")
+    .replace(/[‐‑‒–—―−－]/g, "-")
     .replace(/[ \u3000・/()（）［］[\]_-]/g, "")
     .replace(/[Ⅰ]/g, "I")
     .replace(/[Ⅱ]/g, "II")

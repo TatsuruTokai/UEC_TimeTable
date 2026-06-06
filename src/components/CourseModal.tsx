@@ -29,6 +29,7 @@ const emptyCourse = (): Course => ({
 });
 
 const inferCategory = (requirementType: string, categoryPath: string): CourseCategory => {
+  if (categoryPath.replace(/\s+/g, "").includes("技術英語")) return "技術英語科目";
   if (requirementType === "必修") return "必修";
   if (requirementType === "選択必修") return "選択必修";
   if (categoryPath.includes("言語文化")) return "英語・第二外国語";
